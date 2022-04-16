@@ -1,15 +1,16 @@
 # 4.1 Conhecendo o Arduino
 
 <p>Atualmente no mercado existe uma grande quantidade de tipos de Arduino, o mais utilizado é o o Arduino UNO. Durante o curso iremos utilizar somente o modelo UNO. Porém ao fim dessa explicação irei citar algum outros modelos.</p>
-
-<img src="../imgs/ModuloBasico/Uno/Uno.jpg" alt="Arduino Uno">
-<p></p>
+<p align="center">
+    <img src="../imgs/ModuloBasico/Uno/Uno.jpg" alt="Arduino Uno">
+</p>
 
 <p>Na parte superior da imagem é possível notar que existe alguns "furos" com uma numeração em baixo deles, esses "furos" são comumente chamados de pinos, e será como irei menciona-los.
 </p>
 
-<img src="../imgs/ModuloBasico/Uno/UnoSup.jpg" alt="Arduino Uno">
-<p></p>
+<p align="center">
+    <img src="../imgs/ModuloBasico/Uno/UnoSup.jpg" alt="Arduino Uno">
+</p>
 
 <p>Os pinos que vão de 0 a 13 são pinos programáveis, através de comandos, que veremos mais a frente, é possível executar uma infinidade de funções com eles, seja acender um LED, controlar um servomecanismo ou até mesmo controlar as luzes de sua residência. Todos eles possuem pelo menos o estado de 1 ou HIGH para ligado e 0 ou LOW para desligado. </p>
 
@@ -25,8 +26,9 @@ Ainda nesses pinos de 0 a 13 é possível notar alguns outros pontos, como no pi
 Na parte esquerda da nossa imagem podem notar 3 grandes componentes, vamos falar melhor deles a baixo.
 <p></p>
 
-<img src="../imgs/ModuloBasico/Uno/UnoEsq.jpg" alt="Arduino Uno">
-<p></p>
+<p align="center">
+    <img src="../imgs/ModuloBasico/Uno/UnoEsq.jpg" alt="Arduino Uno">
+</p>
 
 (1) Este botão é o botão chamado de reset, ele serve basicamente para reiniciar o arduino, assim como o botão reset de um computador.  
 <p></p>
@@ -38,9 +40,11 @@ Na parte esquerda da nossa imagem podem notar 3 grandes componentes, vamos falar
 <p></p>
 
 Já na parte inferior é possível notar 2 conjuntos de pinos, vamos falar primeiro dos pinos power ou pinos de energia.
-
-<img src="../imgs/ModuloBasico/Uno/UnoInf.jpg" alt="Arduino Uno">
 <p></p>
+
+<p align="center">
+    <img src="../imgs/ModuloBasico/Uno/UnoInf.jpg" alt="Arduino Uno">
+</p>
 
 O pino IOREF diferente do AREF, tem a funcionalidade de dizer qual a voltagem que está saindo por padrão do Arduino, que no caso é 5v.
 <p></p>
@@ -66,7 +70,8 @@ Existem ainda alguns componentes que estão mais ao centro da placa que serão e
 Existem ainda uma infinidade de outros modelos de Arduino, caso queira conhece-los recomendo esse [artigo](https://www.arduino.cc/en/hardware). A baixo temos uma imagem com alguns deles.
 <p></p>
 
-<img src="http://1.bp.blogspot.com/-V3RlUkAgP2c/UHo6unaVgNI/AAAAAAAAALQ/Aenlp91DQHs/s1600/arduinos.png" alt="Tipos de Arduinos">
-<p></p>
+<p align="center">
+    <img src="http://1.bp.blogspot.com/-V3RlUkAgP2c/UHo6unaVgNI/AAAAAAAAALQ/Aenlp91DQHs/s1600/arduinos.png" alt="Tipos de Arduinos">
+</p>
 
 Imagem retirada do site: http://ardufc.blogspot.com/2012/10/modelos-do-arduino.html

@@ -17,23 +17,28 @@ Para fazer a instalação no Windows 8.1 ou superior é bastante simples, basta 
 O ícone do aplicativo deve ser semelhante a este:
 <p></p>
 
-<img src="../imgs/Win/ArduinoIde.jpg" alt="Ícone Arduino">
-<p></p>
+<p align="center">
+    <img src="../imgs/Win/ArduinoIde.jpg" alt="Ícone Arduino">
+</p>
+
 </details>
 
 <details> 
     <summary>Instalando a IDE no Windows 7+ (Portátil)</summary>
 
 Caso deseje utilizar a versão portátil da IDE, basta acessar o site do [Arduino](https://www.arduino.cc/en/software) e escolher pela opção "Windows ZIP file".
-
-<img src="../imgs/Win/DownloadZip.png" alt="Opção de download zip">
 <p></p>
+
+<p align="center">
+    <img src="../imgs/Win/DownloadZip.png" alt="Opção de download zip">
+</p>
 
 Após escolher a opção uma nova tela se abrirá basta clica em "Just download" e o download iniciará.
 <p></p>
 
-<img src="../imgs/Win/JustDownload.png" alt="botão just download">
-<p></p>
+<p align="center">
+    <img src="../imgs/Win/JustDownload.png" alt="botão just download">
+</p>
 
 Após feito o download do .zip basta extrair no local que desejar e executar o arquivo arduino.exe
 <p></p>
@@ -43,15 +48,18 @@ Após feito o download do .zip basta extrair no local que desejar e executar o a
     <summary> Instalando a IDE no Windows 7+ (Instalável)</summary>
 
 Caso deseje utilizar a versão instalável da IDE, basta acessar o site do [Arduino](https://www.arduino.cc/en/software) e escolher pela opção "Windows Win 7 and newer".
-
-<img src="../imgs/Win/DownloadExe.png" alt="Opção de download instalavel">
 <p></p>
+
+<p align="center">
+    <img src="../imgs/Win/DownloadExe.png" alt="Opção de download instalavel">
+</p>
 
 Após escolher a opção uma nova tela se abrirá basta clica em "Just download" e o download iniciará.
 <p></p>
 
-<img src="../imgs/Win/JustDownload.png" alt="botão just download">
-<p></p>
+<p align="center">
+    <img src="../imgs/Win/JustDownload.png" alt="botão just download">
+</p>
 
 Após feito o download do .exe basta executar-lo.
 <p></p>

@@ -11,7 +11,7 @@ O propósito desse repositório, é ensinar o básico de Arduino para iniciantes
 O básico de [C](https://github.com/jpaulohe4rt/c4noobs) pode ser de grande ajuda, pois algumas partes podem se tornar um pouco abstratas.  
 
 
-## ROADMAP
+## Roadmap
 
 ### Introdução
 

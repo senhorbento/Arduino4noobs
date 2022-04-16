@@ -23,17 +23,21 @@ O básico de [C](https://github.com/jpaulohe4rt/c4noobs) pode ser de grande ajud
 2. [Ambiente Linux](/src/2-Ambiente/2-Ambiente-linux.md)
 3. [Ambiente Online](/src/2-Ambiente/3-Ambiente-online.md)
 
+### Recomendações de conteúdos complementares
+
+1. [Conteúdos](/src/3-Extras/1-Extras.md)
+
 ### Módulo Básico
 
-01. Primeiros passos
-02. Eletrônica básica
-03. Variáveis
-04. Entrada e Saída (Comunicação serial)
-05. Acendendo um LED
-06. Projeto semáforo
-07. Projeto 3 cores somente 1 LED
-08. Projeto rede de Arduinos
-09. Potênciometro
-10. Servo motor
-11. Projeto controle de um servo motor através de um potênciometro
+01. [Primeiros passos](/src/4-Modulo-basico/1-Primeiros-passos)
+02. [Eletrônica básica](/src/4-Modulo-basico/2-Eletronica-basica)
+03. [Estrutura de um programa .ino](/src/4-Modulo-basico/3-Estrutura)
+04. [Entrada e Saída (Comunicação serial)](/src/4-Modulo-basico/4-IO)
+05. [Acendendo um LED](/src/4-Modulo-basico/5-Acendendo-LED)
+06. [Projeto semáforo](/src/4-Modulo-basico/6-Projeto-semaforo)
+07. [Projeto LED RGB](/src/4-Modulo-basico/7-Projeto-RGB)
+08. [Projeto rede de Arduinos](/src/4-Modulo-basico/8-Projeto-Rede)
+09. [Potênciometro](/src/4-Modulo-basico/9-Potenciometro)
+10. [Servo motor](/src/4-Modulo-basico/10-Servo-motor)
+11. [Projeto controle de um servo motor através de um potênciometro](/src/4-Modulo-basico/11-Projeto-controle-servo)
 12. ...

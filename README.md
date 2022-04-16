@@ -1,17 +1,22 @@
 
+<h1 align="center">Arduino4Noobs</h21
+>
+<p align="center">
+    <img src="src/imgs/ino.png" alt="Arduino Uno" width="200">
+</p>
+
 ## Sobre o Projeto
 
 O propósito desse repositório, é ensinar o básico de Arduino para iniciantes.
-Projeto ainda em desenvolvimento.
+Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa contribuir para o projeto [4noobs](https://github.com/he4rt/4noobs).
 
 ### Requisitos:  
+<p></p>
 
-**Nenhum requisito é necessário;**  
-**Não é necessário ter um Arduino, basta usar o [Ambiente Online](/src/2-Ambiente/3-Ambiente-online.md);**  
-É recomendável lógica de programação;  
-O básico de [C](https://github.com/jpaulohe4rt/c4noobs) pode ser de grande ajuda, pois algumas partes podem se tornar um pouco abstratas.  
-
-
+É recomendável conhecer lógica de programação;  
+O básico de [C](https://github.com/jpaulohe4rt/c4noobs) pode ser de grande ajuda, pois algumas partes podem se tornar um pouco abstratas;  
+**Não é necessário ter um Arduino, basta usar o [Ambiente Online](/src/2-Ambiente/3-Ambiente-online.md).**  
+ 
 ## Roadmap
 
 ### Introdução

@@ -1,4 +1,4 @@
-# 2.5 Ambiente Online 
+# 2.3 Ambiente Online 
 <p></p>
 
 Uma opção rápida e simples para você utilizar o Arduino sem precisa adquiri-lo são os simuladores.

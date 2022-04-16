@@ -1,20 +1,24 @@
 # 2.2 Instalação Windows
 
-## Utilizando Arduino IDE:
+## Utilizando a Arduino IDE:
+
+Existem diferentes maneiras de instalar a IDE do arduino, algumas podem ser encontradas no site oficial do [Arduino](https://www.arduino.cc/en/software) e uma outra será explicada a baixo.  
 <p></p>
 
-Existem diferentes maneiras de instalar a IDE do arduino, algumas podem ser encontradas no site oficial do [Arduino](https://www.arduino.cc/en/software) e algumas outras seram explicadas mais a baixo.
+<details> 
+    <summary> Instalando a IDE no Windows 8.1+</summary>
 <p></p>
 
-### Instalando a IDE no Windows 8.1+: 
+Para fazer a instalação no Windows 8.1 ou superior é bastante simples, basta acessar a loja da microsoft, procurar por Arduino IDE e instalar-la. Após finalizado o download a instalação ocorrerá automaticamente.  
+O ícone do aplicativo deve ser semelhante a este:
 <p></p>
 
-Para fazer a instalação no Windows 8.1 ou superior é bastante simples, basta acessar a loja da microsoft, procurar por Arduino IDE e instalar-la. Após finalizado o download a instalação ocorrerá automaticamente.
+<img src="../imgs/ArduinoIde.jpg" alt="Ícone Arduino">
 <p></p>
+</details>
 
-<img src="../imgs/ArduinoIde.jpg" alt="Símbolo Arduino">
-
-### Instalando a IDE no Windows 7+ (Portátil):
+<details> 
+    <summary>Instalando a IDE no Windows 7+ (Portátil):</summary>
 
 Caso deseje utilizar a versão portátil da IDE, basta acessar o site do [Arduino](https://www.arduino.cc/en/software) e escolher pela opção "Windows ZIP file".
 
@@ -30,17 +34,29 @@ Após escolher a opção uma nova tela se abrirá basta clica em "Just download"
 
 Após feito o download do .zip basta extrair no local que desejar e executar o arquivo arduino.exe
 <p></p>
+</details>
 
-### Instalando a IDE no Windows 7+ (Instalável);
+<details> 
+    <summary> Instalando a IDE no Windows 7+ (Instalável)</summary>
 
 Caso deseje utilizar a versão instalável da IDE, basta acessar o site do [Arduino](https://www.arduino.cc/en/software) e escolher pela opção "Windows Win 7 and newer".
 
 <img src="../imgs/DownloadExe.png" alt="Opção de download instalavel">
 <p></p>
 
-Após feito o download do .exe basta executa-lo.
+Após escolher a opção uma nova tela se abrirá basta clica em "Just download" e o download iniciará.
 <p></p>
 
-## Instalando no VsCode:
+<img src="../imgs/JustDownload.png" alt="botão just download">
+
+
+Após feito o download do .exe basta executar-lo.
 <p></p>
+</details>
+
+<details> 
+    <summary>Configurando o VsCode (Opcional)</summary>
+<p></p>
+
 Tambem é possivel utilizar o VsCode, mas o processo é um pouco mais demorado e complexo, por isso estarei deixando esse [video](https://www.youtube.com/watch?v=08N86hk8ZaY), com uma explicação bem completa do passo a passo.
+</details>

@@ -33,7 +33,6 @@ Após escolher a opção uma nova tela se abrirá basta clica em "Just download"
 <p></p>
 
 <img src="../imgs/Win/JustDownload.png" alt="botão just download">
-
 <p></p>
 
 Após feito o download do .zip basta extrair no local que desejar e executar o arquivo arduino.exe
@@ -52,7 +51,7 @@ Após escolher a opção uma nova tela se abrirá basta clica em "Just download"
 <p></p>
 
 <img src="../imgs/Win/JustDownload.png" alt="botão just download">
-
+<p></p>
 
 Após feito o download do .exe basta executar-lo.
 <p></p>

@@ -10,6 +10,9 @@ A minha recomendação é o site [Tinkercad](https://www.tinkercad.com/), você 
 O Tinkercad também pode ser utilizado para deixar seu projeto documentado, caso queira utiliza-lo novamente.
 <p></p>
 
+<details>
+  <summary>Criando uma nova conta</summary>
+
 Infelizmente é necessário criar uma conta para utilizar o site, para isso basta clicar no botão "Inscreva-se agora" no canto superior direito.
 <p></p>
 
@@ -42,3 +45,5 @@ Para criar um projeto utilizando o arduino basta clicar na aba "Circuitos" (1) n
 <p></p>
 
 <img src="../imgs/TinkerCad/CriandoCircuito.png" alt="Criando circuito">
+
+</details>

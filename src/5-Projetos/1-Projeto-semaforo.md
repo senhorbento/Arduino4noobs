@@ -95,7 +95,7 @@ O desafio proposto é o de adicionar mais um semáforo, tanto para o pedestre qu
 <p></p>
 
 <p align="center">
-    <img src="../imgs/Projetos/Semaforo_desafio.jpg" alt="Modelo de semáforo">
+    <img src="../imgs/Projetos/Semaforo_Desafio.jpg" alt="Modelo de semáforo">
 </p>
 
 [A resposta para o desafio final vai estar nessa linha caso tenho curiosidade =)](https://www.tinkercad.com/things/6xkGVtYL2qp)

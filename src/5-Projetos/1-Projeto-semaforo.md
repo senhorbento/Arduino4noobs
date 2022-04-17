@@ -7,16 +7,17 @@ Esse projeto tem como finalidade fixar os conhecimentos adquiridos na [aula 6](/
 
 ## O que o projeto deve ter?
 
-O projeto consiste em básicamente um mini semáforo de trânsito feito utilizando os seguintes materiais:
+O projeto consiste em basicamente um mini semáforo de trânsito, o projeto pode ser feito utilizando os seguintes materiais:
 <p></p>
 
 - 1 Arduino Uno (Ou algum outro de preferência);
+- 1 protoboard;
 - 5 LEDs (2 Vermelhos, 2 Verdes e 1 Amarelo);
 - 1 Resistor de 300Ω;
 - Alguns jumpers (Se você estiver usando a placa físicamente);
 <p></p>
 
-Inicialmente estaremos montando o circuito desta maneira:
+Inicialmente estaremos montando o circuito da maneira descrita a baixo, dentro do possível experimente outras maneiras.
 
 <p align="center">
     <img src="../imgs/Projetos/Semaforo.jpg" alt="Esquema de ligação">
@@ -98,4 +99,4 @@ O desafio proposto é o de adicionar mais um semáforo, tanto para o pedestre qu
     <img src="../imgs/Projetos/Semaforo_Desafio.jpg" alt="Modelo de semáforo">
 </p>
 
-[A resposta para o desafio final vai estar nessa linha caso tenho curiosidade =)](https://www.tinkercad.com/things/6xkGVtYL2qp)
+[A resposta para o desafio final vai estar nessa linha caso tenha curiosidade =)](https://www.tinkercad.com/things/6xkGVtYL2qp)

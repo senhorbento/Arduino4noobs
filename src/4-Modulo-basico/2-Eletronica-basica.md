@@ -23,6 +23,9 @@ No exemplo a baixo é mostrado a alimentação do Arduino feita por uma bateria.
 É importante ressaltar que **sempre** deve-se utilizar somente uma fonte de energia. Caso seja utilizada mais de uma, isso pode ocasionar na queima dos componentes da placa, ou caso esteja utilizando a entrada USB, como uma das fontes, pode ocasionar na queima da entrada USB do seu computador, por exemplo.
 <p></p>
 
+Isso ocorre pois os pinos de alimentação são conectados internamente, uma vez que mais de um gerador (fonte de energia) é utilizado, gera um aumento excessivo na tensão suportada pela placa e fontes externas.
+<p></p>
+
 Ainda sobre a alimentação através de uma bateria, é possível notar que existem duas "pontas" nela, essas "pontas" são chamadas de polo, onde o negativo leva o símbolo (-) e o positivo o símbolo de (+). 
 <p></p>
 

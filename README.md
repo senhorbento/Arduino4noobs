@@ -38,8 +38,8 @@ O básico de [C](https://github.com/jpaulohe4rt/c4noobs) pode ser de grande ajud
 01. [Conhecendo o Arduino](/src/4-Modulo-basico/1-Conhecendo.md)
 02. [Eletrônica básica](/src/4-Modulo-basico/2-Eletronica-basica.md) 
 03. [Componentes eletrônicos](/src/4-Modulo-basico/3-Componentes-eletronicos.md) - Ainda em desenvolvimento
-04. [Estrutura de um programa .ino](/src/4-Modulo-basico/4-Estrutura.md)- Ainda em desenvolvimento
-05. [Entrada e Saída (Comunicação serial)](/src/4-Modulo-basico/5-IO.md)- Ainda em desenvolvimento  
+04. [Estrutura de um programa .ino](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento
+05. [Entrada e Saída (Comunicação serial)](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 [Acendendo um LED](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 [Projeto semáforo](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 [Projeto LED RGB](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  

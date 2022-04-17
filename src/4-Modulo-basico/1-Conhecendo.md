@@ -18,10 +18,10 @@
 
 <p>Os pinos que vão de 0 a 13 são pinos programáveis, através de comandos, que veremos mais a frente, é possível executar uma infinidade de funções com eles, seja acender um LED, controlar um servomecanismo ou até mesmo controlar as luzes de sua residência. Todos eles possuem pelo menos o estado de 1 ou HIGH para ligado e 0 ou LOW para desligado. </p>
 
-Ainda nesses pinos de 0 a 13 é possível notar alguns outros pontos, como no pino 0 que recebe a sigla RX e o pino 1 que recebe a sigla TX. A sigla (TX) significa que este é um pino que pode ser utilizado para transmissão e a (RX) significa que este é um pino que pode ser utilizado para recepção de dados. Mais a frente na [aula 4](/src/4-Modulo-basico/4-IO), iremos falar mais aprofudandamente sobre eles, o importante no momento é saber que eles servem para comunicação.
+Ainda nesses pinos de 0 a 13 é possível notar alguns outros pontos, como no pino 0 que recebe a sigla RX e o pino 1 que recebe a sigla TX. A sigla (TX) significa que este é um pino que pode ser utilizado para transmissão e a (RX) significa que este é um pino que pode ser utilizado para recepção de dados. Mais a frente na [aula 5](/src/4-Modulo-basico/5-IO), iremos falar mais aprofudandamente sobre eles, o importante no momento é saber que eles servem para comunicação.
 <p></p>
 
-É possível notar que existem pinos com o simbolo til (~), que no caso são os pinos 11, 10, 9, 6, 5 e 3. Esses pinos são os chamados pinos de PWM, nesses pinos é possível controlar não somente o estado de ligado ou desligado, como também estados intermediários, um bom exemplo é o controle de intensidade de um LED, ele pode ficar mais ou menos "brilhante" de acordo com a programação. Iremos aprofundar melhor nesses pinos na [aula 2](/src/4-Modulo-basico/2-Eletronica-basica).
+É possível notar que existem pinos com o simbolo til (~), que no caso são os pinos 11, 10, 9, 6, 5 e 3. Esses pinos são os chamados pinos de PWM, nesses pinos é possível controlar não somente o estado de ligado ou desligado, como também estados intermediários, um bom exemplo é o controle de intensidade de um LED, ele pode ficar mais ou menos "brilhante" de acordo com a programação. Iremos aprofundar melhor nesses pinos na [aula 3](/src/4-Modulo-basico/3-Componentes-eletronicos).
 <p></p>
 
 <p>Ainda na parte superior da nossa placa, é possível notar os pinos AREF e GND, o pino GND serve como o nosso pino (-) negativo, um exemplo de onde vemos isso é em pilhas, onde o lado chato é o negativo e o pontudo o positivo.</p>
@@ -73,7 +73,7 @@ O pino Vin tem como finalidade ser mais uma forma de entrada de energia para o A
 Os pinos de A0 à A5 são os pinos analógicos, normalmente são utilizados como entrada de dados para componentes, como por exemplo um potenciômetro.
 <p></p>
 
-Existem ainda alguns componentes que estão mais ao centro da placa que serão explicados de forma mais detalhada na [aula 3](/src/4-Modulo-basico/2-Eletronica-basica).
+Existem ainda alguns componentes que estão mais ao centro da placa, que são o cristal oscilador, capacitores, reguladores de tensão e o chip ATMega328, que serão explicados de forma mais detalhada na [aula 3](/src/4-Modulo-basico/3-Componentes-eletronicos).
 <p></p>
 
 Existem ainda uma infinidade de outros modelos de Arduino, caso queira conhece-los recomendo esse [artigo](https://www.arduino.cc/en/hardware). A baixo temos uma imagem com alguns deles.
@@ -85,4 +85,6 @@ Existem ainda uma infinidade de outros modelos de Arduino, caso queira conhece-l
 
 Imagem retirada do site: http://ardufc.blogspot.com/2012/10/modelos-do-arduino.html
 
-Para finalizar essa aula, um video complementar (não obrigatório) sobre os tipos de arduino do canal Brincando com ideias [link](https://www.youtube.com/watch?v=FbYd9KPkkl4).
+## Consideraçõs finais
+
+Para finalizar essa aula, um video complementar (não obrigatório) sobre os tipos de arduino do canal Brincando com ideias, segue o [link](https://www.youtube.com/watch?v=FbYd9KPkkl4).

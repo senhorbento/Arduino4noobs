@@ -26,7 +26,7 @@ O básico de [C](https://github.com/jpaulohe4rt/c4noobs) pode ser de grande ajud
 ### Configuração de Ambiente
 
 1. [Ambiente Windows](/src/2-Ambiente/1-Ambiente-windows.md)
-2. [Ambiente Linux](/src/2-Ambiente/2-Ambiente-linux.md) - Ainda em desenvolvimento  
+2. [Ambiente Linux](/src/2-Ambiente/2-Ambiente-linux.md)
 3. [Ambiente Online](/src/2-Ambiente/3-Ambiente-online.md)
 
 ### Recomendações de conteúdos complementares

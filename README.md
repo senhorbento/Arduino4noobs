@@ -45,7 +45,7 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 ...
 
 ### Projetos
-01. [Projeto semáforo](/src/4-Modulo-basico/zEm-desenvolvimento.md)
+01. [Projeto semáforo](/src/5-Projetos/1-Projeto-semaforo.md)
 00. [Projeto arco-íris](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Projeto rede de Arduinos](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Projeto controle de um servo motor através de um potênciometro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  

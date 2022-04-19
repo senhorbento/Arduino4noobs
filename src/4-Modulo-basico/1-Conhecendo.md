@@ -16,7 +16,7 @@
     <img src="../imgs/ModuloBasico/Uno/UnoSup.jpg" alt="Arduino Uno">
 </p>
 
-<p>Os pinos que vão de 0 a 13 são pinos programáveis, através de comandos, que veremos mais a frente, é possível executar uma infinidade de funções com eles, seja acender um LED, controlar um servomecanismo ou até mesmo controlar as luzes de sua residência. Todos eles possuem pelo menos o estado de 1 ou HIGH para ligado e 0 ou LOW para desligado. </p>
+<p>Os pinos que vão de 0 a 13 são pinos programáveis, através de comandos, que veremos mais a frente, é possível executar uma infinidade de funções com eles, com uma infinidade de compontes, seja acender um LED, controlar um servomecanismo, ler dados de sensores e até mesmo controlar as luzes de sua residência. Todos os pinos possuem pelo menos o estado de 1 ou HIGH para ligado e 0 ou LOW para desligado. </p>
 
 Ainda nesses pinos de 0 a 13 é possível notar alguns outros pontos, como no pino 0 que recebe a sigla RX e o pino 1 que recebe a sigla TX. A sigla (TX) significa que este é um pino que pode ser utilizado para transmissão e a (RX) significa que este é um pino que pode ser utilizado para recepção de dados. Mais a frente na [aula 5](/src/4-Modulo-basico/5-IO), iremos falar mais aprofudandamente sobre eles, o importante no momento é saber que eles servem para comunicação.
 <p></p>
@@ -24,7 +24,10 @@ Ainda nesses pinos de 0 a 13 é possível notar alguns outros pontos, como no pi
 É possível notar que existem pinos com o simbolo til (~), que no caso são os pinos 11, 10, 9, 6, 5 e 3. Esses pinos são os chamados pinos de PWM, nesses pinos é possível controlar não somente o estado de ligado ou desligado, como também estados intermediários, um bom exemplo é o controle de intensidade de um LED, ele pode ficar mais ou menos "brilhante" de acordo com a programação. Iremos aprofundar melhor nesses pinos na [aula 3](/src/4-Modulo-basico/3-Componentes-eletronicos).
 <p></p>
 
-<p>Ainda na parte superior da nossa placa, é possível notar os pinos AREF e GND, o pino GND serve como o nosso pino (-) negativo, um exemplo de onde vemos isso é em pilhas, onde o lado chato é o negativo e o pontudo o positivo.</p>
+<p>Ainda na parte superior da nossa placa, é possível notar os pinos AREF e GND, o pino GND serve como o nosso pino (-) negativo, um exemplo de onde vemos isso é em pilhas, onde o lado chato é o negativo e o pontudo o positivo. O pino de GND serve para fechar o contato entre o polo positivo, que pode estar ligado em qualquer um dos 13 pinos, desta forma fazendo com com que a corrente flua através dos componentes.</p>
+
+<p>De maneira análoga, imagine que você tem uma autorama, se o circuito por onde os carrinhos passam não estiver fechado, em algum momento eles vão cair do circuito. Da mesma maneira ocorre com a energia, se não tivermos um circuito fechado, a energia escapa e não passa pelo componente.
+</p>
 
 <p>Já o pino AREF é utilizado quando queremos limitar a voltagem dos pinos analógicos, por padrão esse valor é de 5v, podemos limitar apenas para valores menores.</p>
 

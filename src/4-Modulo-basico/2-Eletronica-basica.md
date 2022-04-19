@@ -10,6 +10,9 @@ De maneira resumida, a tensão é a DDP (diferença de potencial) entre dois pon
 Normalmente a tensão é fornecida por um gerador. Existe varios tipos de geradores, alguns dos mais comuns são, baterias (pilhas) e placas solares (que nada mais são que geradores térmicos).
 <p></p>
 
+Para facilitar o entendimento, imagine que você tem uma torneira ligada diretamente a uma caixa d'água e precisa que a água saía nela, se você colocar a caixa d'água no mesmo nível da torneira, não haverá diferença de nível, e a água não sairá na torneira. Se você colocar a caixa d'água em um nível mais alto a água saíra. É exatamente essa diferença de altura (diferença de potencial) que faz a água sair do outro lado, ou no nosso caso, a energia.
+<p></p>
+
 No caso do nosso Arduino podemos usar diferentes tipos de geradores, o nosso computador pode servir como gerador quando utilizamos a entrada USB tipo A, uma bateria pode servir como gerador, desde que tenha pelo menos 9v e ainda podemos utilizar o carregador do nosso celular, desde que não tenha mais que 12v. Essas especificações podem ser lidas no próprio carregador/bateria.
 <p></p>
 

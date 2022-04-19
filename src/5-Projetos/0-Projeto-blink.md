@@ -15,7 +15,53 @@ O projeto blink é basicamente o nosso "Hello World!", caso você não saiba, o 
 <p></p>
 
 <details> 
-    <summary>Utilizando a Arduino IDE - Em desenvolvimento</summary>
+    <summary>Utilizando a Arduino IDE</summary>
+
+Ponto importante antes de enviar o código para a placa é verificar em qual porta COM está, irei explicar como verificar da maneira mais simples.
+<p></p>
+
+Na barra superior ao clicar em Tools -> Port, podemos verificar que, **no meu caso**, temos dois dispositivos conectados na porta USB que permitem comunicação serial, um deles pode ser a placa, para verificar qual é de fato, basta despluga-la e uma sumirá, sendo assim fica facil de localizar qual é a porta certa.
+
+<p align="center">
+    <img src="../imgs/Projetos/0-blink/IDE_Porta.png" alt="Selecionado a porta">
+</p>
+
+**Observação importante 1, caso nenhuma suma, pode ser algo ocasionado por falta de software de driver, é de extrema importância a localização do mesmo. Cada placa possui um software de driver, então nesse caso é melhor fazer uma busca pela internet por qual seria o software driver mais aconselhado para sua placa.**
+<p></p>
+
+**Observação importante 2, ainda na opção Tools, temos a opção "Board", é de extrema importância que o modelo de placa selecionado, seja o modelo da sua placa, caso contrário o código pode não subir, ou subir com falhas. A baixo uma imagem de exemplo de quando uma placa está selecionada.**
+<p></p>
+
+<p align="center">
+    <img src="../imgs/Projetos/0-blink/IDE_Boards.png" alt="Tipos de placa">
+</p>
+
+Na Arduino IDE, este código já vem por padrão, assim como infinidade de outros códigos, para encontra-lo basta seguir o caminho Files -> Examples -> 01.Basics -> Blink, como na imagem a seguir: 
+
+<p align="center">
+    <img src="../imgs/Projetos/0-blink/IDE_Selecionando_example.png" alt="Examples">
+</p>
+
+Feito isso uma nova janela aparecerá com o código, basta fazer o upload do mesmo, clicando no icone de seta para a direita, como mostrado a baixo.
+
+<p align="center">
+    <img src="../imgs/Projetos/0-blink/IDE_Upload.png" alt="Selecionado a porta">
+</p>
+
+Caso tudo esteja correto uma mensagem com "Done uploading" como esta, deverá aparecer na barra inferior da IDE:
+
+<p align="center">
+    <img src="../imgs/Projetos/0-blink/IDE_Upload_Done.png" alt="Upload finalizado">
+</p>
+
+Após feito o upload, se tudo correr bem, o led imbutido do Arduino deverá começar a piscar, o LED "L" (3) este LED em questão estará piscando, mas porque? Veremos mais a baixo
+
+<p align="center">
+    <img src="../imgs/Projetos/0-blink/tinkercad_arduino_blink.png" alt="Resultado">
+</p>
+
+A explicação superficial deste código e porque o LED está piscando, está mais a baixo na seção "Código explicado", na [aula 4](/src/4-Modulo-basico/zEm-desenvolvimento.md) iremos aprofundar melhor em como ele funciona.
+
 </details> 
 
 <details> 
@@ -59,7 +105,7 @@ E por fim veremos um código (1) como na imagem a baixo:
     <img src="../imgs/Projetos/0-blink/tinkercad_arduino_cod.png" alt="Codigo">
 </p>
 
-A explicação superficial deste código está mais a baixo, no proximo tópico, iremos aprofundar melhor em como ele funciona na [aula 4](/src/4-Modulo-basico/zEm-desenvolvimento.md).
+A explicação superficial deste código e porque o LED está piscando, está mais a baixo na seção "Código explicado", na [aula 4](/src/4-Modulo-basico/zEm-desenvolvimento.md) iremos aprofundar melhor em como ele funciona.
 
 </details>    
 
@@ -94,4 +140,6 @@ void loop()
 }
 //Fim da parte que é executada enquanto o Arduino estiver energizado
 ```
+
+O LED interno do Arduino pisca pois o código faz com que em um momento, o estado do LED seja definido como ligado, aguarda 1 segundo, define como desligado e aguarda 1 segundo. Como tudo que está dentro de "void loop(){}" fica sendo repetido até que o Arduino seja desligado, ele ficara piscando infinitamente.
 </details> 

@@ -48,7 +48,6 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 
 01. [Teclado Matricial](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
 00. [Display LCD](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
-...
 
 ### Projetos
 00. [Primeiro projeto](/src/5-Projetos/0-Projeto-blink.md)

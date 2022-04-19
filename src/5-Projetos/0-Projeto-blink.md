@@ -54,11 +54,14 @@ Caso tudo esteja correto uma mensagem com "Done uploading" como esta, deverá ap
     <img src="../imgs/Projetos/0-blink/IDE_Upload_Done.png" alt="Upload finalizado">
 </p>
 
-Após feito o upload, se tudo correr bem, o led imbutido do Arduino deverá começar a piscar, o LED "L" (3) este LED em questão estará piscando, mas porque? Veremos mais a baixo
+Após feito o upload, se tudo correr bem, o led imbutido do Arduino deverá começar a piscar, o LED "L", como mostado na figura a baixo este LED em questão estará piscando, mas porque? Veremos mais a baixo
 
 <p align="center">
-    <img src="../imgs/Projetos/0-blink/tinkercad_arduino_blink.png" alt="Resultado">
+    <img src="../imgs/Projetos/0-blink/tinkercad_led_aceso.png" alt="Resultado">
 </p>
+
+Caso algo dê errado, volte esse passo a passo do começo, não se esqueça de verificar o cabo que liga o Arduino ao PC e a instalação dos drivers =)
+<p></p>
 
 A explicação superficial deste código e porque o LED está piscando, está mais a baixo na seção "Código explicado", na [aula 4](/src/4-Modulo-basico/zEm-desenvolvimento.md) iremos aprofundar melhor em como ele funciona.
 

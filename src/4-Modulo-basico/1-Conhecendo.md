@@ -7,10 +7,10 @@
     <img src="../imgs/ModuloBasico/Uno/Uno.jpg" alt="Arduino Uno">
 </p>
 
-## Pinos digitais (Parte superior)
-
-<p>Na parte superior da imagem é possível notar que existe alguns "furos" com uma numeração em baixo deles, esses "furos" são comumente chamados de pinos, e será como irei menciona-los.
+<p>Na parte superior e inferior da imagem é possível notar que existe alguns "furos"/"quadrados" com algumas descrições, esses "furos" são comumente chamados de pinos, e será como irei menciona-los.
 </p>
+
+## Pinos digitais (Parte superior)
 
 <p align="center">
     <img src="../imgs/ModuloBasico/Uno/UnoSup.jpg" alt="Arduino Uno">
@@ -85,6 +85,6 @@ Existem ainda uma infinidade de outros modelos de Arduino, caso queira conhece-l
 
 Imagem retirada do site: http://ardufc.blogspot.com/2012/10/modelos-do-arduino.html
 
-## Consideraçõs finais
+## Considerações finais
 
 Para finalizar essa aula, um video complementar (não obrigatório) sobre os tipos de arduino do canal Brincando com ideias, segue o [link](https://www.youtube.com/watch?v=FbYd9KPkkl4).

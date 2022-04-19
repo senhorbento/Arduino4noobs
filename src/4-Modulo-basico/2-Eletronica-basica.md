@@ -32,9 +32,9 @@ Como visto na [aula anterior](/src/4-Modulo-basico/1-Conhecendo), o pino de Vin 
 <p></p>
 
 #
-## Corrente (Ampér)
+## Corrente (Ampére)
 
-Agora que já sabemos o que é tensão, vamos estudar um pouco sobre corrente. A corrente elétrica de maneira resumida, é a movimentação dos elétrons em um determinado material (condutor), isso ocorre devido a DDP (diferença de potencial) entre dois pontos. A corrente nada mais é que a quantidade de carga que passa em um condutor por segundo, também pode ser chamado de coulomb. A unidade utilizada para descrever-la é o **Ampér** dada pela sigla A ou I.
+Agora que já sabemos o que é tensão, vamos estudar um pouco sobre corrente. A corrente elétrica de maneira resumida, é a movimentação dos elétrons em um determinado material (condutor), isso ocorre devido a DDP (diferença de potencial) entre dois pontos. A corrente nada mais é que a quantidade de carga que passa em um condutor por segundo, também pode ser chamado de coulomb. A unidade utilizada para descrever-la é o **Ampére** dada pela sigla A ou I.
 <p></p>
 
 Existem dois tipos de corrente, a corrente alternada, que é a básicamente a corrente que flui na tomada de nossa residência, e a corrente contínua que é basicamente a corrente que passa por algum transformador, alguns exemplos de fonte de corrente continua são carregadores de celular, baterias (pilhas) e a entrada USB do computador. Vamos focar a princípio na corrente contínua.
@@ -79,7 +79,7 @@ Tendo visto tensão e corrente, vamos seguir para a última grandeza dessa trind
     <img src="../imgs/ModuloBasico/Eletronica-basica/LeiDeOhm.png" alt="Lei de Ohm">
 </p>
 
-Uma vez que temos a tensão (Volt) e a corrente (Ampér) atuando, se não tivermos algo, ou no caso da imagem alguém, para limitar essa atuação podemos queimar os nossos componentes/equipamentos. A resistência traz uma maior flexibilidade no uso dos componentes/equipamentos. A unidade utilizada para descrever-la é o **Ohm** dada pela letra grega Ω ou ainda a sigla R.
+Uma vez que temos a tensão (Volt) e a corrente (Ampére) atuando, se não tivermos algo, ou no caso da imagem alguém, para limitar essa atuação podemos queimar os nossos componentes/equipamentos. A resistência traz uma maior flexibilidade no uso dos componentes/equipamentos. A unidade utilizada para descrever-la é o **Ohm** dada pela letra grega Ω ou ainda a sigla R.
 <p></p>
 
 A resistência tem como finalidade controlar a passagem de eletróns através de um condutor, seja ele um fio ou não, mais a baixo veremos alguns exemplos de condutores. Esse controle acaba gerando um efeito colateral que é o aquecimento do condutor, esse aquecimento pode ser bom ou ruim, depende da aplicação, por exemplo o chuveiro elétrico, utiliza de uma resistência para aquecer a água.
@@ -106,6 +106,6 @@ Neste circuito é possível notar que todos os 3 leds estão ligados ao 5v e ao 
 No led da direita, quanto retiramos o led, o que acontece é a queima do mesmo, lembra que a resistência tende a aquecer? Quando não utilizamos um resistor, quem aquece é o componente, que no caso é um led e esse aquecimento chega a um ponto que o led simplesmente queima.
 <p></p>
 
-## Consideraçõs finais
+## Considerações finais
 
 Para finalizar essa aula, um video complementar (não obrigatório) sobre as três grandezas do canal Mundo da elétrica [link](https://www.youtube.com/watch?v=rDS-W6EQKpk).

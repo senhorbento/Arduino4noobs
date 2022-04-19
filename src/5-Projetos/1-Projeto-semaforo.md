@@ -2,12 +2,12 @@
 
 
 ## Objetivo do projeto
-Esse projeto tem como finalidade fixar os conhecimentos adquiridos na [aula 6](/src/4-Modulo-basico/6-Acendendo-LED.md).
+Esse projeto tem como finalidade, introduzir melhor os conceitos sobre lógica de programação e fixar os conhecimentos adquiridos na [aula 6](/src/4-Modulo-basico/6-Acendendo-LED.md).
 <p></p>
 
 ## O que o projeto deve ter?
 
-O projeto consiste em basicamente um mini semáforo de trânsito, o projeto pode ser feito utilizando os seguintes materiais:
+O projeto consiste em basicamente um mini semáforo para o trânsito e para os pedestres, o projeto pode ser feito utilizando os seguintes materiais:
 <p></p>
 
 - 1 Arduino Uno (Ou algum outro de preferência);
@@ -20,7 +20,7 @@ O projeto consiste em basicamente um mini semáforo de trânsito, o projeto pode
 Inicialmente estaremos montando o circuito da maneira descrita a baixo, dentro do possível experimente outras maneiras.
 
 <p align="center">
-    <img src="../imgs/Projetos/Semaforo.jpg" alt="Esquema de ligação">
+    <img src="../imgs/Projetos/1-semaforo/Semaforo.jpg" alt="Esquema de ligação">
 </p>
 
 Você é capaz de fazê-lo funcionar? A resposta para o programa estará mais a baixo, porém tente fazê-lo a principio sem consulta-la.
@@ -28,7 +28,7 @@ Você é capaz de fazê-lo funcionar? A resposta para o programa estará mais a 
 <details>
     <summary>Código que pode resolver o problema</summary>
 
-```c
+```C++
 //Definindo constantes para os pinos dos leds do trânsito
 #define _PIN_RED_T     13
 #define _PIN_YELLOW_T  12
@@ -96,7 +96,7 @@ O desafio proposto é o de adicionar mais um semáforo, tanto para o pedestre qu
 <p></p>
 
 <p align="center">
-    <img src="../imgs/Projetos/Semaforo_Desafio.jpg" alt="Modelo de semáforo">
+    <img src="../imgs/Projetos/1-semaforo/Semaforo_Desafio.jpg" alt="Modelo de semáforo">
 </p>
 
 [A resposta para o desafio final vai estar nessa linha caso tenha curiosidade =)](https://www.tinkercad.com/things/6xkGVtYL2qp)

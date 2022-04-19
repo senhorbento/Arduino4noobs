@@ -48,4 +48,4 @@ Para criar um projeto utilizando o arduino basta clicar na aba "Circuitos" (1) n
 
 </details>
 
-Uma vez criada a conta, hora de testar o ambiente, você pode seguir para o [primeiro projeto](/src/5-Projetos/0-Projeto-blink.md) antes de ir para o módulo básico =)
+Uma vez criada a conta, hora de testar o ambiente, você pode seguir para o [primeiro projeto](/src/Projetos/0-Projeto-blink.md) antes de ir para o módulo básico =)

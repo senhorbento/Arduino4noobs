@@ -2,7 +2,7 @@
 
 
 ## Objetivo do projeto
-Esse projeto tem como finalidade, introduzir melhor os conceitos sobre lógica de programação e fixar os conhecimentos adquiridos na [aula 6](/src/4-Modulo-basico/6-Acendendo-LED.md).
+Esse projeto tem como finalidade, introduzir melhor os conceitos sobre lógica de programação e fixar os conhecimentos adquiridos na [aula 5](/src/4-Modulo-basico/5-Acendendo-LED.md).
 <p></p>
 
 ## O que o projeto deve ter?

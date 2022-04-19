@@ -38,10 +38,16 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 00. [Eletrônica básica](/src/4-Modulo-basico/2-Eletronica-basica.md) 
 00. [Componentes eletrônicos](/src/4-Modulo-basico/3-Componentes-eletronicos.md) - Ainda em desenvolvimento
 00. [Estrutura de um programa .ino](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento
-00. [Entrada e Saída (Comunicação serial)](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Acendendo um LED](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
+00. [Entrada e Saída (Comunicação serial)](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
 00. [Potênciometro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Servo motor](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
+00. [Medindo temperatura](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
+
+### Módulo intermediário
+
+01. [Teclado Matricial](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
+00. [Display LCD](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
 ...
 
 ### Projetos
@@ -50,6 +56,7 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 00. [Projeto arco-íris](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Projeto rede de Arduinos](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Projeto controle de um servo motor através de um potênciometro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
+00. [Projeto termômetro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 ## Autor
 
 - **Henrique Bento (senhorbento)** - _Graduando em Tecnologia da Informação e comunicação._ - [Twitter](https://twitter.com/_MisterBento) - [Linkedin](https://www.linkedin.com/in/henrique-bento-97a4b8231/)

@@ -75,4 +75,4 @@ A instalação é bem simples, basta clicar em "I agree" -> "Next" -> "Install",
 Tambem é possivel utilizar o VsCode, mas o processo é um pouco mais demorado e complexo, por isso estarei deixando esse [video](https://www.youtube.com/watch?v=08N86hk8ZaY), com uma explicação bem completa do passo a passo.
 </details>
 
-Uma vez configurado o ambiente, hora de testa-lo, você pode seguir para o [primeiro projeto](/src/5-Projetos/0-Projeto-blink.md) antes de ir para o módulo básico =)
+Uma vez configurado o ambiente, hora de testa-lo, você pode seguir para o [primeiro projeto](/src/Projetos/0-Projeto-blink.md) antes de ir para o módulo básico =)

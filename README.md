@@ -60,4 +60,4 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 
 - **Henrique Bento (senhorbento)** - _Graduando em Tecnologia da Informação e comunicação._ - [Twitter](https://twitter.com/_MisterBento) - [Linkedin](https://www.linkedin.com/in/henrique-bento-97a4b8231/)
 
-<p align="center">Made with 💜</p>
+<p align="center" style="color:#AE2EEA">Made with 💜</p>

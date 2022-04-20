@@ -7,7 +7,7 @@ Uma opção rápida e simples para você utilizar o Arduino sem precisa adquiri-
 A minha recomendação é o site [Tinkercad](https://www.tinkercad.com/), você pode testar código, novos circuitos (sem o risco de queimar os componentes) e pode fazer os projetos propostos pelo curso de forma gratuita e simples.
 <p></p>
 
-O Tinkercad também pode ser utilizado para deixar seu projeto documentado, caso queira utiliza-lo novamente.
+O Tinkercad também pode ser utilizado para deixar seu projeto documentado, caso queira utilizá-lo novamente.
 <p></p>
 
 <details>

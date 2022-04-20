@@ -4,6 +4,12 @@
     <img src="src/imgs/ino.png" alt="Arduino Uno" width="200">
 </p></h1>
 
+<p align="center">
+    <a href="https://github.com/senhorbento/arduino4noobs/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/senhorbento/arduino4noobs/issues">Request Feature</a>
+  </p>
+
 ## Sobre o Projeto
 
 O propósito desse repositório, é ensinar o básico de Arduino para iniciantes.
@@ -59,5 +65,16 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 ## Autor
 
 - **Henrique Bento (senhorbento)** - _Graduando em Tecnologia da Informação e comunicação._ - [Twitter](https://twitter.com/_MisterBento) - [Linkedin](https://www.linkedin.com/in/henrique-bento-97a4b8231/)
+
+## Como Contribuir
+
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
+são **extremamente apreciadas**
+
+1. Realize um Fork do projeto
+2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
+3. Realize o Commit (`git commit -m 'Add some featureBraba'`)
+4. Realize o Push no Branch (`git push origin feature/featureBraba`)
+5. Abra um Pull Request
 
 <p align="center" style="color:#AE2EEA">Made with 💜</p>

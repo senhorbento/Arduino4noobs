@@ -6,12 +6,12 @@ Feito todas as configurações necessárias, caso não tenha feito ainda, ou que
 - [Configurando o Ambiente Linux](/src/2-Ambiente/2-Ambiente-linux.md)
 - [Configurando o Ambiente Online](/src/2-Ambiente/3-Ambiente-online.md)
 
-Certo disso vamos ao primeiro projeto, não se preocupe, o código para esse projeto já vem incluso na IDE do Arduino e no Tinkercad. Sabendo disso, vamos ao que interessa.
+Certo disso, vamos ao primeiro projeto, não se preocupe, o código para esse projeto já vem incluso na IDE do Arduino e no Tinkercad. Sabendo disso, vamos ao que interessa.
 <p></p>
 
 ## Projeto blink
 
-O projeto blink é basicamente o nosso "Hello World!", caso você não saiba, o "Hello World!" é tido como o projeto inicial para todo programador quando inicia em uma nova linguagem, alguns programadores dizem que se você não fize-lo as coisas tendem a dar errado, então não vamos arriscar não é mesmo?
+O projeto blink é basicamente o nosso "Hello World!", caso você não saiba, o "Hello World!" é tido como o projeto inicial para todo programador quando inicia em uma nova linguagem, alguns programadores dizem que se você não o fizer as coisas tendem a dar errado, então não vamos arriscar não é mesmo?
 <p></p>
 
 <details> 
@@ -20,7 +20,7 @@ O projeto blink é basicamente o nosso "Hello World!", caso você não saiba, o 
 Ponto importante antes de enviar o código para a placa é verificar em qual porta COM está, irei explicar como verificar da maneira mais simples.
 <p></p>
 
-Na barra superior ao clicar em Tools -> Port, podemos verificar que, **no meu caso**, temos dois dispositivos conectados na porta USB que permitem comunicação serial, um deles pode ser a placa, para verificar qual é de fato, basta despluga-la e uma sumirá, sendo assim fica facil de localizar qual é a porta certa.
+Na barra superior ao clicar em Tools -> Port, podemos verificar que, **no meu caso**, temos dois dispositivos conectados na porta USB que permitem comunicação serial, um deles pode ser a placa, para verificar qual é de fato, basta despluga-la e uma sumirá, sendo assim fica fácil de localizar qual é a porta certa.
 
 <p align="center">
     <img src="../imgs/Projetos/0-blink/IDE_Porta.png" alt="Selecionado a porta">
@@ -36,7 +36,7 @@ Na barra superior ao clicar em Tools -> Port, podemos verificar que, **no meu ca
     <img src="../imgs/Projetos/0-blink/IDE_Boards.png" alt="Tipos de placa">
 </p>
 
-Na Arduino IDE, este código já vem por padrão, assim como infinidade de outros códigos, para encontra-lo basta seguir o caminho Files -> Examples -> 01.Basics -> Blink, como na imagem a seguir: 
+Na Arduino IDE, este código já vem por padrão, assim como uma infinidade de outros códigos, para encontrá-lo basta seguir o caminho Files -> Examples -> 01.Basics -> Blink, como na imagem a seguir: 
 
 <p align="center">
     <img src="../imgs/Projetos/0-blink/IDE_Selecionando_example.png" alt="Examples">
@@ -54,7 +54,7 @@ Caso tudo esteja correto uma mensagem com "Done uploading" como esta, deverá ap
     <img src="../imgs/Projetos/0-blink/IDE_Upload_Done.png" alt="Upload finalizado">
 </p>
 
-Após feito o upload, se tudo correr bem, o led imbutido do Arduino deverá começar a piscar, o LED "L", como mostado na figura a baixo este LED em questão estará piscando, mas porque? Veremos mais a baixo
+Após feito o upload, se tudo correr bem, o LED "L" que é o led imbutido do Arduino deverá começar a piscar, mas porque? Veremos mais a baixo
 
 <p align="center">
     <img src="../imgs/Projetos/0-blink/tinkercad_led_aceso.png" alt="Resultado">

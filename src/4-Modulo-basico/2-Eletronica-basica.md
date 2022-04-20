@@ -13,13 +13,13 @@ Normalmente a tensão é fornecida por um gerador. Existe varios tipos de gerado
 Para facilitar o entendimento, imagine que você tem uma torneira ligada diretamente a uma caixa d'água e precisa que a água saía nela, se você colocar a caixa d'água no mesmo nível da torneira, não haverá diferença de nível, e a água não sairá na torneira. Se você colocar a caixa d'água em um nível mais alto a água saíra. É exatamente essa diferença de altura (diferença de potencial) que faz a água sair do outro lado, ou no nosso caso, a energia.
 <p></p>
 
-No caso do nosso Arduino podemos usar diferentes tipos de geradores, o nosso computador pode servir como gerador quando utilizamos a entrada USB tipo A, uma bateria pode servir como gerador, desde que tenha pelo menos 9v e ainda podemos utilizar o carregador do nosso celular, desde que não tenha mais que 12v. Essas especificações podem ser lidas no próprio carregador/bateria.
+No caso do nosso Arduino podemos usar diferentes tipos de geradores, o nosso computador pode servir como gerador quando utilizamos a entrada USB tipo A, uma bateria pode servir como gerador, desde que tenha pelo menos 9V e ainda podemos utilizar o carregador do nosso celular, desde que não tenha mais que 12V. Essas especificações podem ser lidas no próprio carregador/bateria.
 <p></p>
 
 No exemplo a baixo é mostrado a alimentação do Arduino feita por uma bateria.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Eletronica-basica/AlimentacaoComBateria.png" alt="Arduino Uno + bateria 9v">
+    <img src="../imgs/ModuloBasico/Eletronica-basica/AlimentacaoComBateria.png" alt="Arduino Uno + bateria 9V">
 </p>
 
 É importante ressaltar que **sempre** deve-se utilizar somente uma fonte de energia. Caso seja utilizada mais de uma, isso pode ocasionar na queima dos componentes da placa, ou caso esteja utilizando a entrada USB, como uma das fontes, pode ocasionar na queima da entrada USB do seu computador, por exemplo.
@@ -70,7 +70,7 @@ Mais a baixo temos a descrição "3A/24V DC", vamos separar novamente, essa desc
 - DC -> Significa que a corrente que passa por ele é uma corrente **Contínua**.
 <p></p>
 
-Está é outra parte do circuito interno dele, significa que a energia que passa por ele pode ter até 3A, 24v em corrente **Contínua** (DC), lembra que o Arduino manipula somente corrente contínua? É aqui que ele entra em ação, essa parte do circuito serve como um interruptor, semelhante ao que utilizamos em nossa residência, porém esse tem o acionamento eletrônico, uma vez que acionarmos ele através do Arduino, ele acenderá ou apagará nossa lâmpada.
+Está é outra parte do circuito interno dele, significa que a energia que passa por ele pode ter até 3A, 24V em corrente **Contínua** (DC), lembra que o Arduino manipula somente corrente contínua? É aqui que ele entra em ação, essa parte do circuito serve como um interruptor, semelhante ao que utilizamos em nossa residência, porém esse tem o acionamento eletrônico, uma vez que acionarmos ele através do Arduino, ele acenderá ou apagará nossa lâmpada.
 <p></p>
 
 #
@@ -96,14 +96,14 @@ Abaixo um exemplo de um circuito simples com 3 casos diferentes.
 
 Este exemplo pode facilitar o entendimento de como funciona uma resitência. Abaixo como foi feita a ligação desse circuito.
 
-- 5v -> Representado pelos fios de cor vermelha;
+- 5V -> Representado pelos fios de cor vermelha;
 - GND -> Representado pelos fios de cor preta;
 - "Placa branca" -> Protoboard, é um tipo de condutor, falaremos melhor dela na [próxima aula](/src/4-Modulo-basico/3-Componentes-eletronicos.md);
 - LED da esquerda -> Ligado a um resistor de 300Ω;
-- LED do centro -> Ligado a um resistor de 3000Ω ou 3kΩ;
+- LED do centro -> Ligado a um resistor de 3000Ω ou 3KΩ;
 - LED da direita -> Sem resistor.
 
-Neste circuito é possível notar que todos os 3 leds estão ligados ao 5v e ao GND, a única diferença entre eles são os resistores, uma vez que aumentamos a quantidade de ohms dos resistores os leds tendem a ficar mais fraco, pois quanto maior o número de ohms, mais "apertado" fica o caminho para os eletróns passarem e isso no caso resulta em um led menos "brilhante".
+Neste circuito é possível notar que todos os 3 leds estão ligados ao 5V e ao GND, a única diferença entre eles são os resistores, uma vez que aumentamos a quantidade de ohms dos resistores os leds tendem a ficar mais fraco, pois quanto maior o número de ohms, mais "apertado" fica o caminho para os eletróns passarem e isso no caso resulta em um led menos "brilhante".
 <p></p>
 
 No led da direita, quanto retiramos o led, o que acontece é a queima do mesmo, lembra que a resistência tende a aquecer? Quando não utilizamos um resistor, quem aquece é o componente, que no caso é um led e esse aquecimento chega a um ponto que o led simplesmente queima.

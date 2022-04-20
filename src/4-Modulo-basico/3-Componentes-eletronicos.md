@@ -12,3 +12,4 @@
 
 ## Interruptores, botões e relés
 
+## Cristal oscilador, capacitores, reguladores de tensão e o chip ATMega328

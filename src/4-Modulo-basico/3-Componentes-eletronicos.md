@@ -95,18 +95,53 @@ Caso queira uma explicação mais detalhada e até um exemplo de explosão do me
 
 ## Regulador de tensão
 
-Reguladores de tensão podem ser utilizados em circuitos utilizando o Arduino, mas também não são tão comums, o importante é saber como é feita a conversão das voltagens utilizadas no Arduino, inclusive em sua placa provavelmente terá pelo menos um desses componentes, uma vez que o Arduino possui uma porta de 3.3V e uma de 5V.
+Reguladores de tensão podem ser utilizados em circuitos com o Arduino, mas também não são tão comums, o importante é saber como é feita a conversão das voltagens utilizadas no Arduino, inclusive em sua placa provavelmente terá pelo menos um desses componentes, uma vez que o Arduino possui um pino para 3.3V e um para 5V.
 <p></p>
+
+Reguladores de tensão, como o próprio nome já diz tem como objetivo regular a tensão, ou seja diminuir a quantidade de volts que passa por ele. Tentar aumentar a voltagem utilizando um regulador de tensão não funcionará, para isso existem circuitos próprios. A baixo mostraremos um exemplo de como funciona um regulador de tensão de 5v.
+
+<p align="center">
+    <img src="../imgs/ModuloBasico/Componentes/Regulador_5v.png" alt="Regulador">
+</p>
+
+Na imagem a cima podemos notar que temos uma bateria de 9V, 2 multímetros (que estão dizendo a voltagem naquele ponto) e um regulador de tensão de 5v. Os fios de cor amarela e verde, significam o positivo e o negativo, respectivamente, que estão vindo da bateria. Já os fios de cor preta e vermelha, respectivamente, estão correspondendo aos fios que estão saindo do regulador.
+<p></p>
+
+Notem que no multímetro da esquerdo temos uma tensão de 9V gerada pela bateria, e após o regulador de tensão, no multímetro da direita, temos uma tensão de 5V, no tinkercad ainda existe um regulador de tensão que faria a tensão descer para 3.3V. 
+<p></p>
+
+Existem diferentes tipos de reguladores de tensão, para diferentes finalidades. No nosso Arduino por exemplo, temos 2 ligados aos circuitos de alimentação (no caso do Tinkercad apenas 1) da placa, para que seja possível ter 5V e 3.3V nos pinos correspondentes. A baixo uma imagem de onde podem ficar os reguladores na placa.
+
+<p align="center">
+    <img src="../imgs/ModuloBasico/Componentes/Regulador_Arduino.png" alt="Regulador no Arduino">
+</p>
+
+Caso queira uma explicação mais detalhada e até um exemplo com varios reguladores, esse [vídeo](https://www.youtube.com/watch?v=JDenESfGj94) do canal Eletrônica Fácil, pode auxiliá-lo.
 
 ## Led
 
-Leds, de longe, são os componentes mais utilizados no Arduino, existem leds de varias cores, alguns possuem até mais de uma cor, tipos e tamanhos. Alguns entusiastas no assunto, dizem que o led é o parafuso de quem mexe com Arduino, em resumo é um componente indispensável.
-<p></p>
+Leds, de longe, são os componentes mais utilizados no Arduino, existem leds de varias cores (alguns possuem até mais de uma cor), tipos e tamanhos. Alguns entusiastas no assunto, dizem que o led é o parafuso de quem mexe com Arduino, em resumo é um componente indispensável.
+
+Na imagem a baixo podemos notar basicamente 2 tipos, os de cor única e o RGB. Todo led possui pelo menos um polo positivo e um negativo, por norma, o polo negativo sempre é o menor terminal "perninha". No caso desse led RGB da imagem, ele tem 4 terminais, um negativo e três positivos, cada positivo é referente a uma cor. Em alguns casos, esse led pode ter um positivo e três negativos, mas são casos mais raros.
+
+<p align="center">
+    <img src="../imgs/ModuloBasico/Componentes/Leds.png" alt="Leds">
+</p>
+
+Falaremos melhor dos leds na [aula 5](/src/4-Modulo-basico/5-Acendendo-LED.md).
 
 ## Buzzer
 
 Buzzers são componentes que nos permitem emitir um som utilizando o Arduino, não são tão comums de serem utilizados, mas podem ser uma boa solução para emitir um retorno auditivo do que está acontecendo em nossa placa.
 <p></p>
+
+Buzzers assim como leds, possuem um polo positivo e um negativo, no caso do buzzer você consegue localizar facilmente a indicação de (-) e (+) na parte superior ou em alguns casos na parte inferior do mesmo. Abaixo um exemplo de buzzer.
+
+<p align="center">
+    <img src="../imgs/ModuloBasico/Componentes/Buzzer.png" alt="Buzzer">
+</p>
+
+Caso queira uma explicação mais detalhada, esse [vídeo](https://www.youtube.com/watch?v=LfM8-IDvXo4) do canal Brincando com Ideias, pode auxiliá-lo.
 
 ## Sensores
 

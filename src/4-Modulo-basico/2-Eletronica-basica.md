@@ -7,7 +7,7 @@
 De maneira resumida, a tensão é a DDP (diferença de potencial) entre dois pontos. A unidade utilizada para descrever-la é o **Volt** dada pela sigla V ou U.
 <p></p>
 
-Normalmente a tensão é fornecida por um gerador. Existe varios tipos de geradores, alguns dos mais comuns são, baterias (pilhas) e placas solares (que nada mais são que geradores térmicos).
+Normalmente a tensão é fornecida por um gerador. Existe varios tipos de geradores, alguns dos mais comuns são, baterias (pilhas) e placas solares (que nada mais são que geradores fotovoltaicos, que converte luz em energia basicamente).
 <p></p>
 
 Para facilitar o entendimento, imagine que você tem uma torneira ligada diretamente a uma caixa d'água e precisa que a água saía nela, se você colocar a caixa d'água no mesmo nível da torneira, não haverá diferença de nível, e a água não sairá na torneira. Se você colocar a caixa d'água em um nível mais alto a água saíra. É exatamente essa diferença de altura (diferença de potencial) que faz a água sair do outro lado, ou no nosso caso, a energia.

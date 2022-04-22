@@ -95,16 +95,16 @@ Caso queira uma explicação mais detalhada e até um exemplo de explosão do me
 
 ## Regulador de tensão
 
-Reguladores de tensão podem ser utilizados em circuitos com o Arduino, mas também não são tão comums, o importante é saber como é feita a conversão das voltagens utilizadas no Arduino, inclusive em sua placa provavelmente terá pelo menos um desses componentes, uma vez que o Arduino possui um pino para 3.3V e um para 5V.
+Reguladores de tensão podem ser utilizados em circuitos com o Arduino, mas também não são tão comums, o importante é saber como é feita a conversão das tensões utilizadas no Arduino, inclusive em sua placa provavelmente terá pelo menos um desses componentes, uma vez que o Arduino possui um pino para 3.3V e um para 5V.
 <p></p>
 
-Reguladores de tensão, como o próprio nome já diz tem como objetivo regular a tensão, ou seja diminuir a quantidade de volts que passa por ele. Tentar aumentar a voltagem utilizando um regulador de tensão não funcionará, para isso existem circuitos próprios. A baixo mostraremos um exemplo de como funciona um regulador de tensão de 5v.
+Reguladores de tensão, como o próprio nome já diz tem como objetivo regular a tensão, ou seja diminuir a quantidade de volts que passa por ele. Tentar aumentar a tensão utilizando um regulador de tensão não funcionará, para isso existem circuitos próprios. A baixo mostraremos um exemplo de como funciona um regulador de tensão de 5v.
 
 <p align="center">
     <img src="../imgs/ModuloBasico/Componentes/Regulador_5v.png" alt="Regulador">
 </p>
 
-Na imagem a cima podemos notar que temos uma bateria de 9V, 2 multímetros (que estão dizendo a voltagem naquele ponto) e um regulador de tensão de 5v. Os fios de cor amarela e verde, significam o positivo e o negativo, respectivamente, que estão vindo da bateria. Já os fios de cor preta e vermelha, respectivamente, estão correspondendo aos fios que estão saindo do regulador.
+Na imagem a cima podemos notar que temos uma bateria de 9V, 2 multímetros (que estão dizendo a tensão naquele ponto) e um regulador de tensão de 5v. Os fios de cor amarela e verde, significam o positivo e o negativo, respectivamente, que estão vindo da bateria. Já os fios de cor preta e vermelha, respectivamente, estão correspondendo aos fios que estão saindo do regulador.
 <p></p>
 
 Notem que no multímetro da esquerdo temos uma tensão de 9V gerada pela bateria, e após o regulador de tensão, no multímetro da direita, temos uma tensão de 5V, no tinkercad ainda existe um regulador de tensão que faria a tensão descer para 3.3V. 

@@ -29,7 +29,7 @@ Ainda nesses pinos de 0 a 13 é possível notar alguns outros pontos, como no pi
 <p>De maneira análoga, imagine que você tem um autorama, se o circuito por onde os carrinhos passam não estiver fechado, em algum momento eles vão cair do circuito. Da mesma maneira ocorre com a energia, se não tivermos um circuito fechado, a energia escapa e não passa pelo componente.
 </p>
 
-<p>Já o pino AREF é utilizado quando queremos limitar a voltagem dos pinos analógicos, por padrão esse valor é de 5V, podemos limitar apenas para valores menores.</p>
+<p>Já o pino AREF é utilizado quando queremos limitar a tensão dos pinos analógicos, por padrão esse valor é de 5V, podemos limitar apenas para valores menores.</p>
 
 ## Botão reset, USB e fonte de energia (Lado esquerdo)
 
@@ -58,13 +58,13 @@ Já na parte inferior é possível notar 2 conjuntos de pinos, os pinos de power
     <img src="../imgs/ModuloBasico/Uno/UnoInf.jpg" alt="Arduino Uno">
 </p>
 
-O pino IOREF diferente do AREF, tem a funcionalidade de dizer qual a voltagem que está saindo por padrão do Arduino, que no caso é 5V.
+O pino IOREF diferente do AREF, tem a funcionalidade de dizer qual a tensão que está saindo por padrão do Arduino, que no caso é 5V.
 <p></p>
 
 O pino reset tem a mesma funcionalidade do botão de reset, basicamente reiniciar o Arduino.
 <p></p>
 
-Os pinos 3.3V e 5V são pinos de saída de energia, que tem como objetivo alimentar nossos componentes, sejam eles LEDs, relés ou até mesmo sensores de presença. Como cada componente tem uma voltagem diferente, existem esses 2 pinos para que possamos ter maior suporte a diferentes componentes.
+Os pinos 3.3V e 5V são pinos de saída de energia, que tem como objetivo alimentar nossos componentes, sejam eles LEDs, relés ou até mesmo sensores de presença. Como cada componente tem uma tensão diferente, existem esses 2 pinos para que possamos ter maior suporte a diferentes componentes.
 <p></p>
 
 Os pinos GND são internamente conectados com o GND da parte de cima, e tem a mesma funcionalidade.

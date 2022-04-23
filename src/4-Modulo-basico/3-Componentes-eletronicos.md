@@ -148,9 +148,26 @@ Caso queira uma explicação mais detalhada, esse [vídeo](https://www.youtube.c
 Assim como tudo no Arduino, exite uma infinidade de sensores que podem ser utilizados, estarei listando alguns deles aqui, bem como uma breve explicação de seu funcionamento.
 <p></p>
 
+A princípio iremos utilizar os 3 sensores mostrados na imagem a baixo, que são respectivamente, sensor ultrassônico, sensor de luz (LDR) e o sensor de temperatura (TMP).
+
+<p align="center">
+    <img src="../imgs/ModuloBasico/Componentes/Sensores.png" alt="Sensores">
+</p>
+
+O sensor ultrassônico é capaz de medir distâncias através do som, um dos lados dele emite um som e o outro recebe, é feito um calculo e de acordo com o tempo em que leva para esse som voltar ao sensor, é obtida a distância.
+<p></p>
+
+Caso queira uma explicação mais aprofundada sobre este sensor, esse [vídeo](httpswww.youtube.comwatchv=J_bUAs-VXA8) do canal Laboratório da Julia, pode auxiliá-lo.
+
+O sensor de luz (LDR) é um tipo de resistência que varia de acordo com a luminosidade, quanto maior a quantidade de luz que incide sobre ele, menor a resistência do mesmo. Você também pode encontrá-los com o nome de fotorresistor.
+<p></p>
+
+O sensor de temperatura (TMP) tem o funcionamento bem semelhante ao fotorresistor,ele tem um tipo de resistência que varia de acordo com a temperatura, quanto maior a temeperatura no ambiente, menor a resistência do mesmo.
+<p></p>
+
 ## Botão, interruptor e relé
 
-Um breve resumo desses 3 componentes é que eles fazem a mesma coisa de maneiras diferentes, mais a baixo iremos explicar como cada um deles funciona.
+Um breve resumo desses 3 componentes é que eles fazem a mesma coisa de maneiras diferentes. Eles basicamente tem como função permitir ou negar que a corrente passe pelo seu circuito, mais a baixo iremos explicar como cada um deles funciona.
 <p></p>
 
 ## Pino PWM

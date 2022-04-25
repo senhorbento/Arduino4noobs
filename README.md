@@ -56,12 +56,12 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 00. [Display LCD](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
 
 ### Projetos
-00. [Primeiro projeto](/src/5-Projetos/0-Projeto-blink.md)
-01. [Projeto semáforo](/src/5-Projetos/1-Projeto-semaforo.md)
-00. [Projeto arco-íris](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
-00. [Projeto rede de Arduinos](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
-00. [Projeto controle de um servo motor através de um potênciometro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
-00. [Projeto termômetro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
+00. [Primeiro projeto](/src/Projetos/0-Projeto-blink.md)
+01. [Projeto semáforo](/src/Projetos/1-Projeto-semaforo.md)
+00. [Projeto arco-íris](/src/Projetos/2-Projeto-RGB.md)- Ainda em desenvolvimento  
+00. [Projeto rede de Arduinos](/src/Projetos/3-Projeto-Rede.md)- Ainda em desenvolvimento  
+00. [Projeto controle de um servo motor através de um potênciometro](/src/Projetos/4-Projeto-controle-Servo.md)- Ainda em desenvolvimento  
+00. [Projeto termômetro](/src/Projetos/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 ## Autor
 
 - **Henrique Bento (senhorbento)** - _Graduando em Tecnologia da Informação e comunicação._ - [Twitter](https://twitter.com/_MisterBento) - [Linkedin](https://www.linkedin.com/in/henrique-bento-97a4b8231/)

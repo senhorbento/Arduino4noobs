@@ -1,4 +1,4 @@
-# 5.1 Projeto semáforo
+# P.1 Projeto semáforo
 
 
 ## Objetivo do projeto
@@ -23,7 +23,7 @@ Inicialmente estaremos montando o circuito da maneira descrita a baixo, dentro d
     <img src="../imgs/Projetos/1-semaforo/Semaforo.jpg" alt="Esquema de ligação">
 </p>
 
-Você é capaz de fazê-lo funcionar? A resposta para o programa estará mais a baixo, porém tente fazê-lo a principio sem consulta-la.
+Você é capaz de fazê-lo funcionar? Uma resposta para o programa estará mais a baixo, porém tente fazê-lo a principio sem consulta-la.
 
 <details>
     <summary>Código que pode resolver o problema</summary>

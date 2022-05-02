@@ -255,6 +255,10 @@ A função analogWrite(); tem como ler o valor de um pino analógico. Para isso 
 #include "Arduino.h"
 
 void setup(){
+    //Define a velocidade da comunicação serial
+    //Obrigatório essa definição com o mesmo valor
+    //tanto no receptor quanto no emissor
+    Serial.begin(9600);
     //Define o pino analógico 0 como entrada
     pinMode(A0, INPUT);
 }

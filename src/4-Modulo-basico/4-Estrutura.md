@@ -1,11 +1,28 @@
 # 4.4 Estrutura de um programa .ino
 
+## Sumário
+
+01. [O que é um programa.ino](##O-que-é-um-programa-.ino?)
+00. [Estrutura](#Estrutura)
+00. [Funções](#funções)  
+    1. [Funções de uso geral](#funções-de-uso-geral)
+        1. [pinMode();](#pinmode)
+        0. [delay();](#delay)
+        0. [millis();](#millis)
+    0. [Funções de comunicação serial](#funções-de-comunicação-serial) 
+    0. [Funções utilizadas com os pinos digitais](#funções-utilizadas-com-os-pinos-digitais)
+        1. [digitalWrite();](#digitalwrite)
+        0. [digitalRead();](#digitalread)
+    0. [Funções utilizadas com os pinos analógicos](#funções-utilizadas-com-os-pinos-analógicos)
+        1. [analogWrite();](#analogwrite)
+        0. [analogRead();](#analogread)
+
 ## O que é um programa .ino?
 
 Antes de falarmos sobre a estrutura do programa .ino, vamos falar o que exatamente seria esse programa. O arquivo com extensão .ino é o arquivo gerado pela ide do Arduino e é ele que é carregado no microcontrolador da nossa placa.
 <p></p>
 
-## Estrutura
+# Estrutura
 
 Um programa .ino, assim como um programa em C/C++, tem uma estrutura básica na qual dentro dela desenvolvemos nosso programa. A baixo um exemplo de como é a estrutura básica.
 
@@ -245,8 +262,6 @@ Essa função é comumente utilizada quando se quer controlar a intensidade de u
 ## analogRead();
 
 Sintaxe: analogRead(pino);
-
-Sintaxe: analogWrite(pino, valor)
 
 A função analogWrite(); tem como ler o valor de um pino analógico. Para isso é utilizado o parâmetro que diz qual o número do pino e em seguida um valor que pode variar de 0 a 1024. A baixo um exemplo de utilização.
 <p></p>

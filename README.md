@@ -60,7 +60,7 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 01. [Projeto semáforo](/src/Projetos/1-Projeto-semaforo.md)
 00. [Projeto RGB](/src/Projetos/2-Projeto-RGB.md)  
 00. [Projeto rede de Arduinos](/src/Projetos/3-Projeto-Rede.md)- Ainda em desenvolvimento  
-00. [Projeto controle de um servo motor através de um potênciometro](/src/Projetos/4-Projeto-controle-servo.md)- Ainda em desenvolvimento  
+00. [Projeto controle de um servo motor através de um potênciometro](/src/Projetos/4-Projeto-controle-servo.md) 
 00. [Projeto termômetro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 ## Autor
 

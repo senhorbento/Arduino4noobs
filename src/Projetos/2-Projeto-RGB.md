@@ -10,7 +10,7 @@ O projeto consiste em basicamente um led RGB que em cada tempo acende em uma det
 <p></p>
 
 - 1 Arduino Uno (Ou algum outro de preferência);
-- 1 protoboard;
+- 1 Protoboard (Opcional);
 - 1 LED RGB;
 - 1 Resistor de 300Ω;
 - Alguns jumpers (Se você estiver usando a placa físicamente);

@@ -11,7 +11,7 @@ O projeto consiste em basicamente um mini semáforo para o trânsito e para os p
 <p></p>
 
 - 1 Arduino Uno (Ou algum outro de preferência);
-- 1 protoboard;
+- 1 Protoboard (Opcional);
 - 5 LEDs (2 Vermelhos, 2 Verdes e 1 Amarelo);
 - 1 Resistor de 300Ω;
 - Alguns jumpers (Se você estiver usando a placa físicamente);

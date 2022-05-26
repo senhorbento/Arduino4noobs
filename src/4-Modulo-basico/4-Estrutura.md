@@ -2,8 +2,8 @@
 
 ## Sumário
 
-01. [O que é um programa.ino](#O-que-é-um-programa-.ino?)
-00. [Estrutura](#Estrutura)
+01. [O que é um programa.ino](#O-que-é-um-programa-.ino?)  
+00. [Estrutura](#Estrutura)  
 00. [Funções](#funções)  
     1. [Funções de uso geral](#funções-de-uso-geral)
         1. [pinMode();](#pinmode)
@@ -17,7 +17,7 @@
         1. [analogWrite();](#analogwrite)
         0. [analogRead();](#analogread)
 
-## O que é um programa .ino?
+# O que é um programa .ino?
 
 Antes de falarmos sobre a estrutura do programa .ino, vamos falar o que exatamente seria esse programa. O arquivo com extensão .ino é o arquivo gerado pela ide do Arduino e é ele que é carregado no microcontrolador da nossa placa.
 <p></p>

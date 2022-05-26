@@ -1,5 +1,17 @@
 # 4.1 Conhecendo o Arduino
 
+## Sumário
+
+01. [Tipos](#Tipos-de-Arduino)  
+    1. [Arduino UNO](##Arduino-UNO)
+00. [Pinos](#Pinos)  
+    1. [Pinos digitais](##Pinos-digitais-Parte-Superior)  
+    2. [Pinos Analógicos](#pinos-de-energia-e-analógicos-parte-inferior)
+00. [Alimentação](##botão-reset-usb-e-fonte-de-energia-lado-esquerdo)
+00. [Considerações finais](##considerações-finais)
+
+# Tipos de Arduino
+
 ## Arduino UNO
 
 <p>Atualmente no mercado existe uma grande quantidade de tipos de Arduino, o mais utilizado é o Arduino UNO. Durante o curso iremos utilizar somente o modelo UNO. Porém ao fim dessa explicação irei citar algum outros modelos.</p>
@@ -9,6 +21,8 @@
 
 <p>Na parte superior e inferior da imagem é possível notar que existe alguns "furos"/"quadrados" com algumas descrições, esses "furos" são comumente chamados de pinos, e será como irei mencioná-los.
 </p>
+
+# Pinos
 
 ## Pinos digitais (Parte superior)
 
@@ -30,24 +44,6 @@ Ainda nesses pinos de 0 a 13 é possível notar alguns outros pontos, como no pi
 </p>
 
 <p>Já o pino AREF é utilizado quando queremos limitar a tensão dos pinos analógicos, por padrão esse valor é de 5V, podemos limitar apenas para valores menores.</p>
-
-## Botão reset, USB e fonte de energia (Lado esquerdo)
-
-Na parte esquerda da nossa imagem podem notar 3 grandes componentes, o botão reset (1), USB tipo B (2) e a entrada para fonte de energia (3), vamos falar melhor deles a baixo.
-<p></p>
-
-<p align="center">
-    <img src="../imgs/ModuloBasico/Uno/UnoEsq.jpg" alt="Arduino Uno">
-</p>
-
-(1) Este botão é o botão chamado de reset, ele serve basicamente para reiniciar o arduino, assim como o botão reset de um computador.  
-<p></p>
-
-(2) Esta é a porta de comunicação do arduino, na grande maioria dos modelos de Arduino UNO disponíveis no mercado, essa entrada é USB do tipo B, o mesmo cabo é usado frequentemente em impressoras. É possível utilizá-la para conectar-se à um computador, por exemplo. Por ela é possivel passar o programa para a placa e também é possível ler os dados gerados no Arduino, essa porta é internamente conectada com os pinos 0 e 1, que são os pinos de comunicação.  
-<p></p>
-
-(3) Esta é a porta de entrada de energia, caso você queria utilizar seu Arduino sem um computador é possível liga-lo utilizando essa porta. Lembrando que a fonte deve ter de 9 à 12V e pelo menos 1A. Falaremos melhor dessas especificações na [aula 2](/src/4-Modulo-basico/2-Eletronica-basica).
-<p></p>
 
 ## Pinos de energia e analógicos (Parte inferior)
 
@@ -87,6 +83,24 @@ Existem ainda uma infinidade de outros modelos de Arduino, caso queira conhece-l
 </p>
 
 Imagem retirada do site: http://ardufc.blogspot.com/2012/10/modelos-do-arduino.html
+
+## Botão reset, USB e fonte de energia (Lado esquerdo)
+
+Na parte esquerda da nossa imagem podem notar 3 grandes componentes, o botão reset (1), USB tipo B (2) e a entrada para fonte de energia (3), vamos falar melhor deles a baixo.
+<p></p>
+
+<p align="center">
+    <img src="../imgs/ModuloBasico/Uno/UnoEsq.jpg" alt="Arduino Uno">
+</p>
+
+(1) Este botão é o botão chamado de reset, ele serve basicamente para reiniciar o arduino, assim como o botão reset de um computador.  
+<p></p>
+
+(2) Esta é a porta de comunicação do arduino, na grande maioria dos modelos de Arduino UNO disponíveis no mercado, essa entrada é USB do tipo B, o mesmo cabo é usado frequentemente em impressoras. É possível utilizá-la para conectar-se à um computador, por exemplo. Por ela é possivel passar o programa para a placa e também é possível ler os dados gerados no Arduino, essa porta é internamente conectada com os pinos 0 e 1, que são os pinos de comunicação.  
+<p></p>
+
+(3) Esta é a porta de entrada de energia, caso você queria utilizar seu Arduino sem um computador é possível liga-lo utilizando essa porta. Lembrando que a fonte deve ter de 9 à 12V e pelo menos 1A. Falaremos melhor dessas especificações na [aula 2](/src/4-Modulo-basico/2-Eletronica-basica).
+<p></p>
 
 ## Considerações finais
 

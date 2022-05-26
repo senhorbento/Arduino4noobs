@@ -2,7 +2,7 @@
 
 ## Sumário
 
-01. [O que é um programa.ino](#O-que-é-um-programa-com-extensão-ino)  
+01. [O que é um programa com extensão ino](#O-que-é-um-programa-com-extensão-ino)  
 00. [Estrutura](#Estrutura)  
 00. [Funções](#funções)  
     1. [Funções de uso geral](#funções-de-uso-geral)

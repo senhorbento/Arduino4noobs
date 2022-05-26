@@ -1,6 +1,14 @@
 # 4.2 Eletrônica básica
 
-## Unidades de medida
+# Sumário
+
+01. [Unidades de medida](#Unidades-de-medida)  
+    1. [Tensão](##Tensão-Volt)
+    0. [Corrente](##Corrente-Ampére)
+    0. [Resistência](##Resistência-Ohm)
+00. [Considerações finais](##considerações-finais)
+
+# Unidades de medida
 
 ## Tensão (Volt)
 
@@ -34,7 +42,6 @@ Ainda sobre a alimentação através de uma bateria, é possível notar que exis
 Como visto na [aula anterior](/src/4-Modulo-basico/1-Conhecendo), o pino de Vin serve como entrada da fonte de energia e o GND serve como polo negativo. Como estamos utilizando o Vin, **obrigatoriamente** temos que usar pelo menos um polo GND, seja ele qual for, no caso utilizamos o que esta ao lado para facilitar a visualização. Por convenção, o polo positivo utiliza a cor vermelha e o negativo a cor preta.
 <p></p>
 
-#
 ## Corrente (Ampére)
 
 Agora que já sabemos o que é tensão, vamos estudar um pouco sobre corrente. A corrente elétrica de maneira resumida, é a movimentação dos elétrons em um determinado material (condutor), isso ocorre devido a DDP (diferença de potencial) entre dois pontos. A corrente nada mais é que a quantidade de carga que passa em um condutor por segundo, também pode ser chamado de coulomb. A unidade utilizada para descrever-la é o **Ampére** dada pela sigla A ou I.
@@ -73,7 +80,6 @@ Mais a baixo temos a descrição "3A/24V DC", vamos separar novamente, essa desc
 Está é outra parte do circuito interno dele, significa que a energia que passa por ele pode ter até 3A, 24V em corrente **Contínua** (DC), lembra que o Arduino manipula somente corrente contínua? É aqui que ele entra em ação, essa parte do circuito serve como um interruptor, semelhante ao que utilizamos em nossa residência, porém esse tem o acionamento eletrônico, uma vez que acionarmos ele através do Arduino, ele acenderá ou apagará nossa lâmpada.
 <p></p>
 
-#
 ## Resistência (Ohm)
 
 Tendo visto tensão e corrente, vamos seguir para a última grandeza dessa trindade elétrica, mas não menos importante, a resistência. A imagem a seguir ilustra bem a "briga" entre essas 3 grandezas. Essa imagem é amplamente utilizada no ensino de eletrônica básica, logo se torna difícil conhecer a sua origem.

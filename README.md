@@ -42,7 +42,7 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 
 01. [Conhecendo o Arduino](/src/4-Modulo-basico/1-Conhecendo.md)
 00. [Eletrônica básica](/src/4-Modulo-basico/2-Eletronica-basica.md) 
-00. [Componentes eletrônicos](/src/4-Modulo-basico/3-Componentes-eletronicos.md) - Ainda em desenvolvimento (80%)
+00. [Componentes eletrônicos](/src/4-Modulo-basico/3-Componentes-eletronicos.md)
 00. [Estrutura de um programa .ino](/src/4-Modulo-basico/4-Estrutura.md)
 00. [Acendendo um LED](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Entrada e Saída (Comunicação serial)](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 

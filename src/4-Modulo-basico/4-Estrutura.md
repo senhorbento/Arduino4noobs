@@ -1,6 +1,6 @@
 # 4.4 Estrutura de um programa .ino
 
-## Sumário
+# Sumário
 
 01. [O que é um programa com extensão ino](#O-que-é-um-programa-com-extensão-ino)  
 00. [Estrutura](#Estrutura)  

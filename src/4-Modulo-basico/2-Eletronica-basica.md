@@ -3,10 +3,10 @@
 # Sumário
 
 01. [Unidades de medida](#Unidades-de-medida)  
-    1. [Tensão](##Tensão-Volt)
-    0. [Corrente](##Corrente-Ampére)
-    0. [Resistência](##Resistência-Ohm)
-00. [Considerações finais](##considerações-finais)
+    1. [Tensão](#Tensão-Volt)
+    0. [Corrente](#Corrente-Ampére)
+    0. [Resistência](#Resistência-Ohm)
+00. [Considerações finais](#considerações-finais)
 
 # Unidades de medida
 
@@ -115,6 +115,6 @@ Neste circuito é possível notar que todos os 3 leds estão ligados ao 5V e ao 
 No led da direita, quanto retiramos o led, o que acontece é a queima do mesmo, lembra que a resistência tende a aquecer? Quando não utilizamos um resistor, quem aquece é o componente, que no caso é um led e esse aquecimento chega a um ponto que o led simplesmente queima.
 <p></p>
 
-## Considerações finais
+# Considerações finais
 
 Para finalizar essa aula, um video complementar (não obrigatório) sobre as três grandezas do canal Mundo da elétrica [link](https://www.youtube.com/watch?v=rDS-W6EQKpk).

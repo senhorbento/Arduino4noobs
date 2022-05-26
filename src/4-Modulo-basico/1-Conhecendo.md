@@ -3,12 +3,12 @@
 # Sumário
 
 01. [Tipos](#Tipos-de-Arduino)  
-    1. [Arduino UNO](##Arduino-UNO)
+    1. [Arduino UNO](#Arduino-UNO)  
 00. [Pinos](#Pinos)  
-    1. [Pinos digitais](##Pinos-digitais-Parte-Superior)  
+    1. [Pinos digitais](#Pinos-digitais-Parte-Superior)  
     2. [Pinos Analógicos](#pinos-de-energia-e-analógicos-parte-inferior)
-00. [Alimentação](##botão-reset-usb-e-fonte-de-energia-lado-esquerdo)
-00. [Considerações finais](##considerações-finais)
+00. [Alimentação](#botão-reset-usb-e-fonte-de-energia-lado-esquerdo)
+00. [Considerações finais](#considerações-finais)
 
 # Tipos de Arduino
 

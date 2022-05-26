@@ -5,7 +5,7 @@
 01. [Unidades de medida](#uma-breve-introdução)
 00. [Resistores](#resistores)  
 00. [Capacitores](#capacitores)
-00. [Regulador de tensão](#regulador-de-tensão);
+00. [Regulador de tensão](#regulador-de-tensão)
 00. [LED](#led)
 00. [Buzzer](#buzzer)
 00. [Sensores](#sensores)

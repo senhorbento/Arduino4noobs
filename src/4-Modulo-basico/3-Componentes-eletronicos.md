@@ -10,8 +10,8 @@
 00. [Buzzer](#buzzer)
 00. [Sensores](#sensores)
 00. [Interruptores](#interruptores)  
-    1.[Relé](#Relé)  
-    2.[Botões](#Botões)  
+    1. [Relé](#Relé)  
+    2. [Botões](#Botões)  
 00. [Protoboard](#protoboard)
 00. [Considerações finais](##considerações-finais)
 

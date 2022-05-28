@@ -95,7 +95,5 @@ são **extremamente apreciadas**
 <p align="center" style="color:#AE2EEA">Made with 💜</p>
 
 <p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./.github/footer-4noobs.svg" width="380">
-  </a>
+    <img src="https://github.com/he4rt/4noobs/blob/master/.github/footer_4noobs.svg" alt="Footer4Noobs">
 </p>

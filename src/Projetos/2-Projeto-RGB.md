@@ -13,10 +13,10 @@ O projeto consiste em basicamente um led RGB que em cada tempo acende em uma det
 - 1 Protoboard (Opcional);
 - 1 LED RGB;
 - 1 Resistor de 300Ω;
-- Alguns jumpers (Se você estiver usando a placa físicamente);
+- Alguns jumpers (Se você estiver usando a placa fisicamente);
 <p></p>
 
-Inicialmente estaremos montando o circuito da maneira descrita a baixo, dentro do possível experimente outras maneiras.
+Inicialmente estaremos montando o circuito da maneira mostrada a baixo, dentro do possível experimente outras maneiras.
 
 <p align="center">
     <img src="../imgs/Projetos/2-RGB/Esquema.png" alt="Esquema de ligação">

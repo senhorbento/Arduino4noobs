@@ -13,10 +13,10 @@ O projeto consiste em basicamente um servor motor que deve ser controlado utiliz
 - 1 Protoboard (Opcional);
 - 1 Servo motor;
 - 1 Potênciometro (No caso usaremos de 1KΩ, mas pode ser de outra medida, isso só interferirá na precisão do movimento);
-- Alguns jumpers (Se você estiver usando a placa físicamente);
+- Alguns jumpers (Se você estiver usando a placa fisicamente);
 <p></p>
 
-Inicialmente estaremos montando o circuito da maneira descrita a baixo, dentro do possível experimente outras maneiras.
+Inicialmente estaremos montando o circuito da maneira mostrada a baixo, dentro do possível experimente outras maneiras.
 
 <p align="center">
     <img src="../imgs/Projetos/4-Servo/Esquema.png" alt="Esquema de ligação">

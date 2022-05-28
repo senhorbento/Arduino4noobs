@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="../.github/header_4noobs.svg">
+  </a>
+</p>
 
 <h1 align="center">Arduino4Noobs
 <p align="center">
@@ -90,3 +95,9 @@ são **extremamente apreciadas**
 5. Abra um Pull Request
 
 <p align="center" style="color:#AE2EEA">Made with 💜</p>
+
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="../.github/footer_4noobs.svg" width="380">
+  </a>
+</p>

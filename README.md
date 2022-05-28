@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
     <img src="https://github.com/he4rt/4noobs/blob/master/.github/header_4noobs.svg" alt="Header4Noobs">
+  </a>
 </p>
 
 <h1 align="center">Arduino4Noobs
@@ -95,5 +97,7 @@ são **extremamente apreciadas**
 <p align="center" style="color:#AE2EEA">Made with 💜</p>
 
 <p align="center">
+  <a href="https://heartdevs.com" target="_blank">
     <img src="https://github.com/he4rt/4noobs/blob/master/.github/footer_4noobs.svg" alt="Footer4Noobs">
+  </a>
 </p>

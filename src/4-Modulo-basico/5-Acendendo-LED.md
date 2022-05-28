@@ -48,6 +48,9 @@ void loop(){
 
 Com esse código, o seu Arduino deverá enviar comandos para que led fique acendendo e apagando a cada 1 segundo, caso tenha dúvida em relação as funções utilizadas recomendo que revise a [aula 4](4-Estrutura.md) lá é falado detalhadamente sobre as funções.
 
+Você pode ver o projeto funcionando através desse [link](https://www.tinkercad.com/things/cDS3L45QDAz).
+<p></p>
+
 # Considerações finais
 
 Agora que você já sabe acender um led, ficam aqui dois projetos para você praticar seus conhecimentos, é sempre de grande ajuda tentar montar o projeto proposto sem olhar o código inicial, mas caso tenha dificuldade não exite em consultar. Os projetos propostos são os seguintes:

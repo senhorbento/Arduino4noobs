@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src=".github/header-4noobs.svg">
-  </a>
+    <img src="https://github.com/he4rt/4noobs/blob/master/.github/header_4noobs.svg" alt="Header4Noobs">
 </p>
 
 <h1 align="center">Arduino4Noobs

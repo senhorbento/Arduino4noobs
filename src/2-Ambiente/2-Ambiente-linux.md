@@ -2,7 +2,7 @@
 
 ### Requisitos:
 
-Caso queira utilizar uma IDE é necessário ter um Arduino e saber qual o modelo do mesmo para baixar o driver correto, neste guia ensinarei somente a instalação da IDE.
+Caso queira utilizar uma IDE é necessário ter um Arduino e saber qual o modelo do mesmo para baixar o driver correto, neste guia será passado somente a instalação da IDE.
 
 Existem diferentes maneiras de instalar a IDE do arduino, algumas podem ser encontradas no site oficial do [Arduino](https://www.arduino.cc/en/software) e uma outra será explicada a baixo.  
 

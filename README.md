@@ -18,32 +18,30 @@
 ## Sobre o Projeto
 
 O propósito desse repositório, é ensinar o básico de Arduino para iniciantes.
-Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa contribuir para o projeto [4noobs](https://github.com/he4rt/4noobs).
 
-## Requisitos:  
-<p></p>
+## Requisitos
 
 - É recomendável conhecer lógica de programação;  
 - O básico de [C](https://github.com/jpaulohe4rt/c4noobs) pode ser de grande ajuda, pois algumas partes podem se tornar um pouco abstratas;  
 - **Não é necessário ter um Arduino, basta usar o [Ambiente Online](/src/2-Ambiente/3-Ambiente-online.md).**  
- 
-## Roadmap
 
-### Introdução
+# Roadmap
+
+## Introdução
 
 - [Boas Vindas](/src/1-Introducao/1-Boas-vindas.md)
 
-### Configuração de Ambiente
+## Configuração de Ambiente
 
 - [Ambiente Windows](/src/2-Ambiente/1-Ambiente-windows.md)
 - [Ambiente Linux](/src/2-Ambiente/2-Ambiente-linux.md)
 - [Ambiente Online](/src/2-Ambiente/3-Ambiente-online.md)
 
-### Recomendações de conteúdos complementares
+## Recomendações de conteúdos complementares
 
 - [Conteúdo Complementar](/src/3-Extras/1-Extras.md)
 
-### Módulo Básico
+## Módulo Básico
 
 01. [Conhecendo o Arduino](/src/4-Modulo-basico/1-Conhecendo.md)
 00. [Eletrônica básica](/src/4-Modulo-basico/2-Eletronica-basica.md) 
@@ -55,7 +53,7 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 00. [Servo motor](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Medindo temperatura](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 
-### Módulo intermediário
+## Módulo intermediário
 
 01. [Sensor ultrassônico](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
 00. [Teclado Matricial](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
@@ -63,7 +61,7 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 00. [Display LCD](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
 
 
-### Projetos
+## Projetos
 **Básico**
 
 00. [Primeiro projeto](/src/Projetos/0-Projeto-blink.md)
@@ -79,11 +77,11 @@ Projeto ainda em desenvolvimento. Espero que um dia esse repositório possa cont
 00. [Projeto rede de Arduinos (Comunicação I2C)](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Projeto calculadora](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 
-## Autor
+# Autor
 
 - **Henrique Bento (senhorbento)** - _Graduando em Tecnologia da Informação e comunicação._ - [Twitter](https://twitter.com/_MisterBento) - [Linkedin](https://www.linkedin.com/in/henrique-bento-97a4b8231/)
 
-## Como Contribuir
+# Como Contribuir
 
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
 são **extremamente apreciadas**
@@ -94,7 +92,7 @@ são **extremamente apreciadas**
 4. Realize o Push no Branch (`git push origin feature/featureBraba`)
 5. Abra um Pull Request
 
-<p align="center" style="color:#AE2EEA">Made with 💜</p>
+<p align="center">Made with 💜</p>
 
 <p align="center">
   <a href="https://heartdevs.com" target="_blank">

@@ -26,7 +26,7 @@ Requisitos para montar o circuito:
 Inicialmente estaremos montando o circuito da maneira mostrada a baixo, dentro do possível experimente outras maneiras.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/AcendendoLed/Circuito.png" alt="Esquema de ligação">
+    <img src="../imgs/ModuloBasico/AcendendoLed/Circuito.jpg" alt="Esquema de ligação">
 </p>
 
 # Código

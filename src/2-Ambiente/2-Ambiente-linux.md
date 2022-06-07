@@ -17,7 +17,7 @@ uname -m
 Após feito a verificação você pode utilizar o site oficial do [Arduino](https://www.arduino.cc/en/software) para baixar o que se enquadra melhor com seu sistema, são essas opções como na imagem a baixo.
 
 <p align="center">
-    <img src="../imgs/Unix/Site.png" alt="Opções para linux">
+    <img src="../imgs/Unix/Site.jpg" alt="Opções para linux">
 </p>
 
 Localize o arquivo e o extraia utilizando o comando a seguir:

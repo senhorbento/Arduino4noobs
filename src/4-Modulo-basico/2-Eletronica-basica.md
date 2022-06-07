@@ -27,7 +27,7 @@ No caso do nosso Arduino podemos usar diferentes tipos de geradores, o nosso com
 No exemplo a baixo é mostrado a alimentação do Arduino feita por uma bateria.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Eletronica-basica/AlimentacaoComBateria.png" alt="Arduino Uno + bateria 9V">
+    <img src="../imgs/ModuloBasico/Eletronica-basica/AlimentacaoComBateria.jpg" alt="Arduino Uno + bateria 9V">
 </p>
 
 É importante ressaltar que **sempre** deve-se utilizar somente uma fonte de energia. Caso seja utilizada mais de uma, isso pode ocasionar na queima dos componentes da placa, ou caso esteja utilizando a entrada USB, como uma das fontes, pode ocasionar na queima da entrada USB do seu computador, por exemplo.
@@ -85,7 +85,7 @@ Está é outra parte do circuito interno dele, significa que a energia que passa
 Tendo visto tensão e corrente, vamos seguir para a última grandeza dessa trindade elétrica, mas não menos importante, a resistência. A imagem a seguir ilustra bem a "briga" entre essas 3 grandezas. Essa imagem é amplamente utilizada no ensino de eletrônica básica, logo se torna difícil conhecer a sua origem.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Eletronica-basica/LeiDeOhm.png" alt="Lei de Ohm">
+    <img src="../imgs/ModuloBasico/Eletronica-basica/LeiDeOhm.jpg" alt="Lei de Ohm">
 </p>
 
 Uma vez que temos a tensão (Volt) e a corrente (Ampére) atuando, se não tivermos algo, ou no caso da imagem alguém, para limitar essa atuação podemos queimar os nossos componentes/equipamentos. A resistência traz uma maior flexibilidade no uso dos componentes/equipamentos. A unidade utilizada para descrever-la é o **Ohm** dada pela letra grega Ω ou ainda a sigla R.

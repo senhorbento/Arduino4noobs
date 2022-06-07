@@ -34,13 +34,13 @@ Existem resistores de diferentes valores de resistência. Assim como a resistên
 Na imagem a baixo é possível ver 3 resistores, cada um deles tem uma resistência diferente, existe uma tabela de cores que define qual a resistência e a tolerância deles.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/Resistores.png" alt="Resistores">
+    <img src="../imgs/ModuloBasico/Componentes/Resistores.jpg" alt="Resistores">
 </p>
 
 Da esquerda para direita temos 300Ω, 1kΩ ou 1000Ω e 10kΩ ou 10000Ω de resistência. Existe uma tabela que explica a relação das cores de um resistor com a a resistência deles, deixarei esse [artigo](https://www.mundodaeletrica.com.br/codigo-de-cores-de-resistores/) com uma explicação completa de como funciona e abaixo um pequeno desafio, você consegue descobrir qual a resistência desses 3 resistores?
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/Resistores_desafio.png" alt="Desafio">
+    <img src="../imgs/ModuloBasico/Componentes/Resistores_desafio.jpg" alt="Desafio">
 </p>
 
 <details>
@@ -92,7 +92,7 @@ Assim como resistores, existem uma infinidade de tipos, modelos e tamanhos. Cada
 Na imagem a baixo podemos ver dois tipos de capacitores o da esquerda é o eletrolítico e o da direita o cerâmico.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/Capacitores.png" alt="Desafio">
+    <img src="../imgs/ModuloBasico/Componentes/Capacitores.jpg" alt="Desafio">
 </p>
 
 O capacitor eletrolítico tem um formato semelhante a uma pilha, ele é capaz de armazenar maior quantidade de energia que o capacitor eletrolítico, outra diferença principal entre eles é que o capacitor eletrolítico possui polaridade, ou seja ele possui um terminal positivo e um terminal negativo. Existem 2 maneiras de identificar quais são os polos, uma delas é pela faixa branca que fica no plástico que encobre ele, indicando o polo negativo. A outra maneira é através dos terminais "perninhas" dele, o terminal menor é sempre o negativo.
@@ -118,7 +118,7 @@ Reguladores de tensão podem ser utilizados em circuitos com o Arduino, mas tamb
 Reguladores de tensão, como o próprio nome já diz tem como objetivo regular a tensão, ou seja diminuir a quantidade de volts que passa por ele. Tentar aumentar a tensão utilizando um regulador de tensão não funcionará, para isso existem circuitos próprios. A baixo mostraremos um exemplo de como funciona um regulador de tensão de 5v.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/Regulador_5v.png" alt="Regulador">
+    <img src="../imgs/ModuloBasico/Componentes/Regulador_5v.jpg" alt="Regulador">
 </p>
 
 Na imagem a cima podemos notar que temos uma bateria de 9V, 2 multímetros (que estão dizendo a tensão naquele ponto) e um regulador de tensão de 5v. Os fios de cor amarela e verde, significam o positivo e o negativo, respectivamente, que estão vindo da bateria. Já os fios de cor preta e vermelha, respectivamente, estão correspondendo aos fios que estão saindo do regulador.
@@ -130,7 +130,7 @@ Notem que no multímetro da esquerdo temos uma tensão de 9V gerada pela bateria
 Existem diferentes tipos de reguladores de tensão, para diferentes finalidades. No nosso Arduino por exemplo, temos 2 ligados aos circuitos de alimentação (no caso do Tinkercad apenas 1) da placa, para que seja possível ter 5V e 3.3V nos pinos correspondentes. A baixo uma imagem de onde podem ficar os reguladores na placa.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/Regulador_Arduino.png" alt="Regulador no Arduino">
+    <img src="../imgs/ModuloBasico/Componentes/Regulador_Arduino.jpg" alt="Regulador no Arduino">
 </p>
 
 Caso queira uma explicação mais detalhada e até um exemplo com varios reguladores, esse [vídeo](https://www.youtube.com/watch?v=JDenESfGj94) do canal Eletrônica Fácil, pode auxiliá-lo.
@@ -142,7 +142,7 @@ Leds, de longe, são os componentes mais utilizados no Arduino, existem leds de 
 Na imagem a baixo podemos notar basicamente 2 tipos, os de cor única e o RGB. Todo led possui pelo menos um polo positivo e um negativo, por norma, o polo negativo sempre é o menor terminal "perninha". No caso desse led RGB da imagem, ele tem 4 terminais, um negativo e três positivos, cada positivo é referente a uma cor. Em alguns casos, esse led pode ter um positivo e três negativos, mas são casos mais raros.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/Leds.png" alt="Leds">
+    <img src="../imgs/ModuloBasico/Componentes/Leds.jpg" alt="Leds">
 </p>
 
 Falaremos melhor dos leds na [aula 5](/src/4-Modulo-basico/5-Acendendo-LED.md).
@@ -155,7 +155,7 @@ Buzzers são componentes que nos permitem emitir um som utilizando o Arduino, n�
 Buzzers assim como leds, possuem um polo positivo e um negativo, no caso do buzzer você consegue localizar facilmente a indicação de (-) e (+) na parte superior ou em alguns casos na parte inferior do mesmo. Abaixo um exemplo de buzzer.
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/Buzzer.png" alt="Buzzer">
+    <img src="../imgs/ModuloBasico/Componentes/Buzzer.jpg" alt="Buzzer">
 </p>
 
 Caso queira uma explicação mais detalhada, esse [vídeo](https://www.youtube.com/watch?v=LfM8-IDvXo4) do canal Brincando com Ideias, pode auxiliá-lo.
@@ -168,7 +168,7 @@ Assim como tudo no Arduino, exite uma infinidade de sensores que podem ser utili
 A princípio iremos utilizar os 3 sensores mostrados na imagem a baixo, que são respectivamente, sensor ultrassônico, sensor de luz (LDR) e o sensor de temperatura (TMP).
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/Sensores.png" alt="Sensores">
+    <img src="../imgs/ModuloBasico/Componentes/Sensores.jpg" alt="Sensores">
 </p>
 
 O sensor ultrassônico é capaz de medir distâncias através do som, um dos lados dele emite um som e o outro recebe, é feito um calculo e de acordo com o tempo em que leva para esse som voltar ao sensor, é obtida a distância.
@@ -216,7 +216,7 @@ No Arduino Uno por padrão vem um botão soldado nele, esse botão é do tipo pu
 <p></p>
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/BotaoArduino.png" alt="Botão Arduino">
+    <img src="../imgs/ModuloBasico/Componentes/BotaoArduino.jpg" alt="Botão Arduino">
 </p>
 
 
@@ -226,7 +226,7 @@ A protoboard não necessariamente é um componente, mas ela auxilia e muito na h
 <p></p>
 
 <p align="center">
-    <img src="../imgs/ModuloBasico/Componentes/ProtoboardLimpa.png" alt="Botão Arduino">
+    <img src="../imgs/ModuloBasico/Componentes/ProtoboardLimpa.jpg" alt="Botão Arduino">
 </p>
 
 Na parte superior e inferior temos os pinos que de - e +, esses pinos tem uma ligação interna na horizontal, ou seja se você conectar algo no primeiro pino negativo, a corrente flui até o ultimo e também nos seus intermediários, e a mesma coisa acontece com o positivo.

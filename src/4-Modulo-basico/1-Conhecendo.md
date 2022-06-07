@@ -79,7 +79,7 @@ Existem ainda uma infinidade de outros modelos de Arduino, caso queira conhece-l
 <p></p>
 
 <p align="center">
-    <img src="http://1.bp.blogspot.com/-V3RlUkAgP2c/UHo6unaVgNI/AAAAAAAAALQ/Aenlp91DQHs/s1600/arduinos.png" alt="Tipos de Arduinos">
+    <img src="http://1.bp.blogspot.com/-V3RlUkAgP2c/UHo6unaVgNI/AAAAAAAAALQ/Aenlp91DQHs/s1600/arduinos.jpg" alt="Tipos de Arduinos">
 </p>
 
 Imagem retirada do site: http://ardufc.blogspot.com/2012/10/modelos-do-arduino.html

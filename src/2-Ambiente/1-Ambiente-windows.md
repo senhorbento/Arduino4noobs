@@ -30,14 +30,14 @@ Caso deseje utilizar a versão portátil da IDE, basta acessar o site do [Arduin
 <p></p>
 
 <p align="center">
-    <img src="../imgs/Win/DownloadZip.png" alt="Opção de download zip">
+    <img src="../imgs/Win/DownloadZip.jpg" alt="Opção de download zip">
 </p>
 
 Após escolher a opção uma nova tela se abrirá basta clica em "Just download" e o download iniciará.
 <p></p>
 
 <p align="center">
-    <img src="../imgs/Win/JustDownload.png" alt="botão just download">
+    <img src="../imgs/Win/JustDownload.jpg" alt="botão just download">
 </p>
 
 Após feito o download do .zip basta extrair no local que desejar e executar o arquivo arduino.exe
@@ -51,14 +51,14 @@ Caso deseje utilizar a versão instalável da IDE, basta acessar o site do [Ardu
 <p></p>
 
 <p align="center">
-    <img src="../imgs/Win/DownloadExe.png" alt="Opção de download instalavel">
+    <img src="../imgs/Win/DownloadExe.jpg" alt="Opção de download instalavel">
 </p>
 
 Após escolher a opção uma nova tela se abrirá basta clica em "Just download" e o download iniciará.
 <p></p>
 
 <p align="center">
-    <img src="../imgs/Win/JustDownload.png" alt="botão just download">
+    <img src="../imgs/Win/JustDownload.jpg" alt="botão just download">
 </p>
 
 Após feito o download do .exe basta executar-lo.

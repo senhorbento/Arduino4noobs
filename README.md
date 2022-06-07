@@ -6,7 +6,7 @@
 
 <h1 align="center">Arduino4Noobs
 <p align="center">
-    <img src="src/imgs/ino.png" alt="Arduino Uno" width="200">
+    <img src="src/imgs/Auxi/ino.png" alt="Arduino Uno" width="200">
 </p></h1>
 
 <p align="center">

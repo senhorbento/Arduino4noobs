@@ -9,7 +9,7 @@
 
 # Introdução
 
-Esta aula tem como finalidade agregar o conhecimento adquirido na aulas anteriores em um pequeno projeto inicial, que seria o de acender um led e com isso seram passados 2 projetos para complementar a aula.
+Esta aula tem como finalidade agregar o conhecimento adquirido na aulas anteriores em um pequeno projeto inicial, que será o de acender um led e com isso serão passados 2 projetos para complementar a aula.
 <p></p>
 
 # Circuito

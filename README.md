@@ -49,7 +49,7 @@ O propósito desse repositório, é ensinar o básico de Arduino para iniciantes
 00. [Estrutura de um programa .ino](/src/4-Modulo-basico/4-Estrutura.md)
 00. [Acendendo um LED](/src/4-Modulo-basico/5-Acendendo-LED.md)
 00. [Entrada e Saída (Comunicação serial)](/src/4-Modulo-basico/6-IO.md) 
-00. [Potênciometro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
+00. [Potenciômetro  + Pushbutton](/src/4-Modulo-basico/7-Potenciometro+Push.md)- Ainda em desenvolvimento  
 00. [Servo motor](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 00. [Medindo temperatura](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
 
@@ -79,7 +79,12 @@ O propósito desse repositório, é ensinar o básico de Arduino para iniciantes
 
 # Autor
 
-- **Henrique Bento (senhorbento)** - _Graduando em Tecnologia da Informação e comunicação._ - [Twitter](https://twitter.com/_MisterBento) - [Linkedin](https://www.linkedin.com/in/henrique-bento-97a4b8231/)
+- **Henrique Bento (senhorbento)** - _Graduando em Tecnologia da Informação e comunicação._  
+[Twitter](https://twitter.com/_MisterBento) - [Linkedin](https://www.linkedin.com/in/henrique-bento-97a4b8231/) - [Dev.to](https://dev.to/_misterbento)
+
+# Agradecimentos
+
+- **Kalebe Nascimento (kalNascimento)** - [Github](https://github.com/kalNascimento) - [Twitter](https://twitter.com/kal_Nascimento)
 
 # Como Contribuir
 

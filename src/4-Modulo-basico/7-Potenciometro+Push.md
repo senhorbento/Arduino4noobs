@@ -85,6 +85,8 @@ void loop()
 ```
  
 Ao pressionar o botão uma mensagem será enviada ao monitor serial informando a leitura do potenciômetro, essa leitura será algo entre 0 e 1023, para visualizar a informação que está sendo enviada você precisa utilizar o monitor serial, caso não se lembre como abrir-lo, visite a [aula 6](/src/4-Modulo-basico/6-IO.md) novamente, ao fim da explicação do código utilizado estão listadas as maneiras de abrir-lo.
+
+Você pode ver o projeto funcionando através desse [link](https://www.tinkercad.com/things/bFtR4J7POYo).
  
 # Considerações finais
 

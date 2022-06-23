@@ -209,7 +209,7 @@ No lado direito dele é possível notar um desenho que mostra um tipo de mola al
 
 ## Botões
 
-Botões são componentes bem simples e que possuem uma grande variedade, o interruptor que você utiliza para ligar a luz de um cômodo da sua casa é um tipo de botão por exemplo.
+Botões são componentes bem simples e que possuem uma grande variedade, o interruptor que você utiliza para ligar a luz de um cômodo da sua casa é um tipo de botão por exemplo. Na [aula 7](/src/4-Modulo-basico/7-Potenciometro+Push.md) falaremos melhor sobre eles.
 <p></p>
 
 No Arduino Uno por padrão vem um botão soldado nele, esse botão é do tipo push button, ele é acionado somente enquanto eles está sendo pressionado, enquanto está sendo pressionado a energia flui entre seus terminais, uma vez que é soltado a energia deixa de fluir através dele.

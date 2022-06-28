@@ -50,32 +50,33 @@ O propósito desse repositório, é ensinar o básico de Arduino para iniciantes
 00. [Acendendo um LED](/src/4-Modulo-basico/5-Acendendo-LED.md)
 00. [Entrada e Saída (Comunicação serial)](/src/4-Modulo-basico/6-IO.md) 
 00. [Potenciômetro  + Pushbutton](/src/4-Modulo-basico/7-Potenciometro+Push.md)
-00. [Servo motor](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
-00. [Medindo temperatura](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
+00. [Servo motor](/src/4-Modulo-basico/8-Servo-motor.md)- Ainda em desenvolvimento  
+00. [Medindo temperatura](/src/4-Modulo-basico/9-Temperatura.md)- Ainda em desenvolvimento  
+00. [Fazendo barulho](/src/4-Modulo-basico/10-buzzer.md)- Ainda em desenvolvimento  
 
 ## Módulo intermediário
 
-01. [Sensor ultrassônico](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
-00. [Teclado Matricial](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
-00. [Conexão I2C](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
-00. [Display LCD](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento 
+01. [Sensor ultrassônico](/src/6-Modulo-intermediario/Sensor-Ultrassonico.md)- Ainda em desenvolvimento 
+00. [Teclado Matricial](/src/4-Modulo-basico/Teclado-Matricial.md)- Ainda em desenvolvimento 
+00. [Conexão I2C](/src/4-Modulo-basico/Conexao-i2c.md)- Ainda em desenvolvimento 
+00. [Display LCD](/src/4-Modulo-basico/LCD.md)- Ainda em desenvolvimento 
 
 
 ## Projetos
 **Básico**
 
-00. [Primeiro projeto](/src/Projetos/0-Projeto-blink.md)
-01. [Projeto semáforo](/src/Projetos/1-Projeto-semaforo.md)
-00. [Projeto RGB](/src/Projetos/2-Projeto-RGB.md)  
-00. [Projeto rede de Arduinos (Comunicação Serial)](/src/Projetos/3-Projeto-Rede.md)
-00. [Projeto controle de um servo motor através de um potênciometro](/src/Projetos/4-Projeto-controle-servo.md) 
-00. [Projeto termômetro](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento
+00. [Primeiro projeto](/src/Projetos/Basico/0-Projeto-blink.md)
+01. [Projeto semáforo](/src/Projetos/Basico/1-Projeto-semaforo.md)
+00. [Projeto RGB](/src/Projetos/Basico/2-Projeto-RGB.md)  
+00. [Projeto rede de Arduinos (Comunicação Serial)](/src/Projetos/Basico/3-Projeto-Rede.md)
+00. [Projeto controle de um servo motor através de um potênciometro](/src/Projetos/Basico/4-Projeto-controle-servo.md) 
+00. [Projeto termômetro](/src/Projetos/Basico/5-Projeto-termometro.md)- Ainda em desenvolvimento
 
 **Intermediário**
 
-01. [Projeto medindo distância](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento
-00. [Projeto rede de Arduinos (Comunicação I2C)](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
-00. [Projeto calculadora](/src/4-Modulo-basico/zEm-desenvolvimento.md)- Ainda em desenvolvimento  
+01. [Projeto sensor de estacionamento](/src/Projetos/Intermediario/Projeto-sensor.md)- Ainda em desenvolvimento
+00. [Projeto rede de Arduinos (Comunicação I2C)](/src/Projetos/Intermediario/Projeto-rede-i2c.md)- Ainda em desenvolvimento  
+00. [Projeto calculadora](/src/Projetos/Intermediario/Projeto-calculadora.md)- Ainda em desenvolvimento  
 
 # Autor
 

@@ -1,16 +1,16 @@
-# 4.9 Sensor de temperatura
+# 4.10 Buzzer
 
 # Sumário
 
 01. [Introdução](#introdução)
-00. [Sensor de temperatura](#sensor-de-temperatura)
+00. [Buzzer](#buzzer)
 00. [Circuito](#circuito)
 00. [Código](#código)
 00. [Considerações finais](#considerações-finais)
 
 # Introdução
 
-# Sensor de temperatura
+# Buzzer
 
 # Circuito
 

@@ -1,16 +1,16 @@
-# 4.9 Sensor de temperatura
+# 5. Conexão I2C
 
 # Sumário
 
 01. [Introdução](#introdução)
-00. [Sensor de temperatura](#sensor-de-temperatura)
+00. [Conexão I2C](#conexão-i2c)
 00. [Circuito](#circuito)
 00. [Código](#código)
 00. [Considerações finais](#considerações-finais)
 
 # Introdução
 
-# Sensor de temperatura
+# Conexão I2C
 
 # Circuito
 

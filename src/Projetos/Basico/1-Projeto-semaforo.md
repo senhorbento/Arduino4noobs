@@ -20,7 +20,7 @@ O projeto consiste em basicamente um mini semáforo para o trânsito e para os p
 Inicialmente estaremos montando o circuito da maneira mostrada a baixo, dentro do possível experimente outras maneiras.
 
 <p align="center">
-    <img src="../imgs/Projetos/1-semaforo/Semaforo.jpg" alt="Esquema de ligação">
+    <img src="../../imgs/Projetos/1-semaforo/Semaforo.jpg" alt="Esquema de ligação">
 </p>
 
 Você é capaz de fazê-lo funcionar? Uma resposta para o programa estará mais a baixo, porém tente fazê-lo a principio sem consulta-la.
@@ -96,7 +96,7 @@ O desafio proposto é o de adicionar mais um semáforo, tanto para o pedestre qu
 <p></p>
 
 <p align="center">
-    <img src="../imgs/Projetos/1-semaforo/Semaforo_Desafio.jpg" alt="Modelo de semáforo">
+    <img src="../../imgs/Projetos/1-semaforo/Semaforo_Desafio.jpg" alt="Modelo de semáforo">
 </p>
 
 [A resposta para o desafio final vai estar nessa linha caso tenha curiosidade =)](https://www.tinkercad.com/things/6xkGVtYL2qp)

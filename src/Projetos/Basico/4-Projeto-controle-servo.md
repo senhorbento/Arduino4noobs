@@ -19,7 +19,7 @@ O projeto consiste em basicamente um servor motor que deve ser controlado utiliz
 Inicialmente estaremos montando o circuito da maneira mostrada a baixo, dentro do possível experimente outras maneiras.
 
 <p align="center">
-    <img src="../imgs/Projetos/4-Servo/Esquema.png" alt="Esquema de ligação">
+    <img src="../../imgs/Projetos/4-Servo/Esquema.jpg" alt="Esquema de ligação">
 </p>
 
 Você é capaz de fazê-lo funcionar? Uma resposta para o programa estará mais a baixo, porém tente fazê-lo a principio sem consulta-la.
